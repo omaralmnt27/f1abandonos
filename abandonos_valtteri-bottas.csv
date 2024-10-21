@@ -1,0 +1,29 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+27,2024,China,10,77,Kick Sauber C44,Ferrari V6 t h,Pirelli,19,Engine
+26,2023,São Paulo,18,77,Alfa Romeo C43,Ferrari V6 t h,Pirelli,39,Hydraulics
+25,2023,Japan,16,77,Alfa Romeo C43,Ferrari V6 t h,Pirelli,7,Undertray
+24,2023,Singapore,16,77,Alfa Romeo C43,Ferrari V6 t h,Pirelli,51,Overheating
+23,2022,USA,7,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,16,Runway exit
+22,2022,Netherlands,16,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,53,Engine
+21,2022,Belgium,13,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,1,Runway exit
+20,2022,Hungary,8,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,65,Fuel injection
+19,2022,Britain,12,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,20,Gearbox
+18,2022,Saudi Arabia,8,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,36,Overheating
+17,2021,Qatar,6,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,48,Collision damage
+16,2021,Hungary,2,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,0,Pile-up
+15,2021,Monaco,3,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,29,Wheel nut
+14,2021,Emilia-Romagna,8,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,30,Collision
+13,2020,Eifel,1,77,Mercedes F1 W11,Mercedes V6 t h,Pirelli,18,Electronics
+12,2019,Brazil,4,77,Mercedes F1 W10,Mercedes V6 t h,Pirelli,51,Engine
+11,2019,Germany,3,77,Mercedes F1 W10,Mercedes V6 t h,Pirelli,56,Accident
+10,2018,Austria,1,77,Mercedes F1 W09,Mercedes V6 t h,Pirelli,13,Hydraulics
+9,2018,Azerbaijan,3,77,Mercedes F1 W09,Mercedes V6 t h,Pirelli,48,Puncture
+8,2017,Spain,3,77,Mercedes F1 W08,Mercedes V6 t h,Pirelli,38,Engine
+7,2016,Abu Dhabi,11,77,Williams FW38,Mercedes V6 t h,Pirelli,6,Suspension
+6,2016,Singapore,10,77,Williams FW38,Mercedes V6 t h,Pirelli,35,Overheating
+5,2015,USA,16,77,Williams FW37,Mercedes V6 t h,Pirelli,5,Suspension
+4,2015,Russia,3,77,Williams FW37,Mercedes V6 t h,Pirelli,52,Collision
+3,2014,Monaco,13,77,Williams FW36,Mercedes V6 t h,Pirelli,55,Engine
+2,2013,Brazil,13,17,Williams FW35,Renault V8,Pirelli,45,Collision
+1,2013,Hungary,16,17,Williams FW35,Renault V8,Pirelli,42,Hydraulics
+,,,,, , ,,,

@@ -1,0 +1,23 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+21,2024,Canada,11,16,Ferrari SF-24,Ferrari V6 t h,Pirelli,40,Engine
+20,2023,Netherlands,9,16,Ferrari SF-23,Ferrari V6 t h,Pirelli,41,Undertray
+19,2023,Australia,7,16,Ferrari SF-23,Ferrari V6 t h,Pirelli,0,Collision
+18,2023,Bahrain,3,16,Ferrari SF-23,Ferrari V6 t h,Pirelli,39,Engine
+17,2022,France,1,16,Ferrari F1-75,Ferrari V6 t h,Pirelli,17,Accident
+16,2022,Azerbaijan,1,16,Ferrari F1-75,Ferrari V6 t h,Pirelli,21,Engine
+15,2022,Spain,1,16,Ferrari F1-75,Ferrari V6 t h,Pirelli,27,Turbo
+14,2021,Hungary,7,16,Ferrari SF21,Ferrari V6 t h,Pirelli,0,Pile-up
+13,2020,Sakhir,4,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,0,Collision
+12,2020,Italy,13,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,23,Accident
+11,2020,Spain,9,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,38,Electrics
+10,2020,Styria,14,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,4,Collision damage
+9,2019,Brazil,14,16,Ferrari SF90,Ferrari V6 t h,Pirelli,65,Collision
+8,2019,Germany,10,16,Ferrari SF90,Ferrari V6 t h,Pirelli,27,Accident
+7,2019,Monaco,15,16,Ferrari SF90,Ferrari V6 t h,Pirelli,16,Collision damage
+6,2018,USA,9,16,Sauber C37,Ferrari V6 t h,Pirelli,31,Collision damage
+5,2018,Japan,10,16,Sauber C37,Ferrari V6 t h,Pirelli,38,Suspension
+4,2018,Belgium,12,16,Sauber C37,Ferrari V6 t h,Pirelli,0,Pile-up
+3,2018,Hungary,16,16,Sauber C37,Ferrari V6 t h,Pirelli,0,Collision
+2,2018,Britain,9,16,Sauber C37,Ferrari V6 t h,Pirelli,18,Wheel
+1,2018,Monaco,14,16,Sauber C37,Ferrari V6 t h,Pirelli,70,Collision
+,,,,, , ,,,

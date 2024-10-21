@@ -1,0 +1,34 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+32,2024,Australia,1,1,Red Bull RB20,Honda RBPT V6 t h,Pirelli,3,Brakes
+31,2022,Australia,2,1,Red Bull RB18,RBPT V6 t h,Pirelli,38,Fuel leak
+30,2022,Bahrain,2,1,Red Bull RB18,RBPT V6 t h,Pirelli,54,Fuel injection
+29,2021,Italy,1,33,Red Bull RB16B,Honda V6 t h,Pirelli,25,Collision
+28,2021,Britain,1,33,Red Bull RB16B,Honda V6 t h,Pirelli,0,Collision
+27,2021,Azerbaijan,3,33,Red Bull RB16B,Honda V6 t h,Pirelli,45,Accident
+26,2020,Sakhir,3,33,Red Bull RB16,Honda V6 t h,Pirelli,0,Accident
+25,2020,Emilia-Romagna,3,33,Red Bull RB16,Honda V6 t h,Pirelli,50,Tyre
+24,2020,Tuscany,3,33,Red Bull RB16,Honda V6 t h,Pirelli,0,Collision
+23,2020,Italy,5,33,Red Bull RB16,Honda V6 t h,Pirelli,30,Engine
+22,2020,Austria,2,33,Red Bull RB16,Honda V6 t h,Pirelli,11,Electronics
+21,2019,Japan,5,33,Red Bull RB15,Honda V6 t h,Pirelli,14,Brakes
+20,2019,Belgium,5,33,Red Bull RB15,Honda V6 t h,Pirelli,0,Accident
+19,2018,Hungary,7,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,5,Power loss
+18,2018,Britain,5,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,46,Brakes
+17,2018,Azerbaijan,5,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,39,Collision
+16,2018,Bahrain,15,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,3,Differential
+15,2017,Singapore,2,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,0,Collision
+14,2017,Belgium,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,7,Power loss
+13,2017,Austria,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,0,Collision
+12,2017,Azerbaijan,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,12,Engine
+11,2017,Canada,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,10,Electrics
+10,2017,Spain,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,1,Collision
+9,2017,Bahrain,6,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,11,Brakes
+8,2016,USA,4,33,Red Bull RB12,TAG Heuer V6 t h,Pirelli,28,Gearbox
+7,2016,Monaco,21,33,Red Bull RB12,TAG Heuer V6 t h,Pirelli,34,Accident
+6,2016,Russia,9,33,Toro Rosso STR11,Ferrari V6 t h,Pirelli,33,Engine
+5,2015,Britain,13,33,Toro Rosso STR10,Renault V6 t h,Pirelli,3,Runway exit
+4,2015,Monaco,9,33,Toro Rosso STR10,Renault V6 t h,Pirelli,62,Collision
+3,2015,Bahrain,15,33,Toro Rosso STR10,Renault V6 t h,Pirelli,34,Electrics
+2,2015,China,13,33,Toro Rosso STR10,Renault V6 t h,Pirelli,52,Engine
+1,2015,Australia,11,33,Toro Rosso STR10,Renault V6 t h,Pirelli,32,Engine
+,,,,, , ,,,

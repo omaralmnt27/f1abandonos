@@ -1,0 +1,13 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+11,2024,Belgium,19,24,Kick Sauber C44,Ferrari V6 t h,Pirelli,5,Hydraulics
+10,2024,Japan,20,24,Kick Sauber C44,Ferrari V6 t h,Pirelli,12,Gearbox
+9,2023,São Paulo,20,24,Alfa Romeo C43,Ferrari V6 t h,Pirelli,22,Engine
+8,2023,Netherlands,15,24,Alfa Romeo C43,Ferrari V6 t h,Pirelli,62,Accident
+7,2023,Azerbaijan,15,24,Alfa Romeo C43,Ferrari V6 t h,Pirelli,36,Overheating
+6,2022,Singapore,14,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,6,Collision
+5,2022,France,16,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,47,Engine
+4,2022,Britain,9,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,0,Pile-up
+3,2022,Azerbaijan,14,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,23,Engine
+2,2022,Spain,15,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,28,Power loss
+1,2022,Miami,17,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,6,Water leak
+,,,,, , ,,,

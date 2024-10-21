@@ -1,0 +1,43 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+41,2024,Monaco,19,27,Haas VF-24,Ferrari V6 t h,Pirelli,0,Pile-up
+40,2023,Las Vegas,13,27,Haas VF-23,Ferrari V6 t h,Pirelli,45,Engine
+39,2023,Austria,8,27,Haas VF-23,Ferrari V6 t h,Pirelli,12,Engine
+38,2019,Germany,9,27,Renault R.S.19,Renault V6 t h,Pirelli,39,Accident
+37,2019,China,8,27,Renault R.S.19,Renault V6 t h,Pirelli,16,Engine
+36,2019,Bahrain,17,27,Renault R.S.19,Renault V6 t h,Pirelli,53,Engine
+35,2018,Abu Dhabi,10,27,Renault R.S.18,Renault V6 t h,Pirelli,0,Collision
+34,2018,Brazil,13,27,Renault R.S.18,Renault V6 t h,Pirelli,32,Overheating
+33,2018,Japan,16,27,Renault R.S.18,Renault V6 t h,Pirelli,37,Handling
+32,2018,Belgium,18,27,Renault R.S.18,Renault V6 t h,Pirelli,0,Pile-up
+31,2018,Austria,10,27,Renault R.S.18,Renault V6 t h,Pirelli,11,Turbo
+30,2018,Spain,16,27,Renault R.S.18,Renault V6 t h,Pirelli,0,Collision
+29,2018,Azerbaijan,14,27,Renault R.S.18,Renault V6 t h,Pirelli,10,Accident
+28,2017,Mexico,7,27,Renault R.S.17,Renault V6 t h,Pirelli,24,ERS
+27,2017,USA,18,27,Renault R.S.17,Renault V6 t h,Pirelli,3,Oil pressure
+26,2017,Japan,11,27,Renault R.S.17,Renault V6 t h,Pirelli,40,Wing
+25,2017,Singapore,7,27,Renault R.S.17,Renault V6 t h,Pirelli,48,Engine
+24,2017,Hungary,12,27,Renault R.S.17,Renault V6 t h,Pirelli,67,Brakes
+23,2017,Azerbaijan,13,27,Renault R.S.17,Renault V6 t h,Pirelli,24,Accident
+22,2017,Monaco,10,27,Renault R.S.17,Renault V6 t h,Pirelli,15,Gearbox
+21,2016,USA,7,27,Force India VJM09,Mercedes V6 t h,Pirelli,1,Steering
+20,2016,Singapore,8,27,Force India VJM09,Mercedes V6 t h,Pirelli,0,Collision
+19,2016,Austria,2,27,Force India VJM09,Mercedes V6 t h,Pirelli,64,Brakes
+18,2016,Spain,11,27,Force India VJM09,Mercedes V6 t h,Pirelli,20,Fire
+17,2016,Russia,13,27,Force India VJM09,Mercedes V6 t h,Pirelli,0,Collision
+16,2015,USA,6,27,Force India VJM08,Mercedes V6 t h,Pirelli,35,Collision
+15,2015,Russia,6,27,Force India VJM08,Mercedes V6 t h,Pirelli,0,Collision
+14,2015,Singapore,11,27,Force India VJM08,Mercedes V6 t h,Pirelli,12,Collision
+13,2015,Hungary,11,27,Force India VJM08,Mercedes V6 t h,Pirelli,41,Accident
+12,2015,China,16,27,Force India VJM08,Mercedes V6 t h,Pirelli,9,Gearbox
+11,2014,USA,13,27,Force India VJM07,Mercedes V6 t h,Pirelli,16,Power loss
+10,2014,Hungary,9,27,Force India VJM07,Mercedes V6 t h,Pirelli,14,Collision
+9,2013,India,7,11,Sauber C32,Ferrari V8,Pirelli,54,Brakes
+8,2013,Canada,9,11,Sauber C32,Ferrari V8,Pirelli,45,Puncture
+7,2012,Abu Dhabi,10,12,Force India VJM05,Mercedes V8,Pirelli,0,Collision
+6,2012,Italy,24,12,Force India VJM05,Mercedes V8,Pirelli,50,Brakes
+5,2012,Australia,9,12,Force India VJM05,Mercedes V8,Pirelli,0,Collision
+4,2010,Japan,9,10,Williams FW32,Cosworth V8,Bridgestone,0,Collision
+3,2010,Europe,8,10,Williams FW32,Cosworth V8,Bridgestone,49,Exhaust
+2,2010,Monaco,11,10,Williams FW32,Cosworth V8,Bridgestone,0,Accident
+1,2010,Australia,15,10,Williams FW32,Cosworth V8,Bridgestone,0,Pile-up
+,,,,, , ,,,

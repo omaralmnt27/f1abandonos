@@ -1,0 +1,14 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+12,2024,Austria,2,4,McLaren MCL38,Mercedes V6 t h,Pirelli,64,Collision
+11,2023,Las Vegas,15,4,McLaren MCL60,Mercedes V6 t h,Pirelli,2,Accident
+10,2022,São Paulo,6,4,McLaren MCL36,Mercedes V6 t h,Pirelli,50,Gearbox
+9,2022,Miami,8,4,McLaren MCL36,Mercedes V6 t h,Pirelli,39,Collision
+8,2021,Hungary,6,4,McLaren MCL35M,Mercedes V6 t h,Pirelli,2,Undertray
+7,2020,Eifel,8,4,McLaren MCL35,Renault V6 t h,Pirelli,42,Engine
+6,2019,Mexico,8,4,McLaren MCL34,Renault V6 t h,Pirelli,48,Withdrew
+5,2019,Belgium,11,4,McLaren MCL34,Renault V6 t h,Pirelli,43,Engine
+4,2019,Germany,19,4,McLaren MCL34,Renault V6 t h,Pirelli,25,Power loss
+3,2019,Canada,8,4,McLaren MCL34,Renault V6 t h,Pirelli,8,Suspension
+2,2019,Spain,10,4,McLaren MCL34,Renault V6 t h,Pirelli,44,Collision
+1,2019,China,15,4,McLaren MCL34,Renault V6 t h,Pirelli,50,Undertray
+,,,,, , ,,,

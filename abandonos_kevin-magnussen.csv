@@ -1,0 +1,37 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+35,2024,Singapore,14,20,Haas VF-24,Ferrari V6 t h,Pirelli,57,Puncture
+34,2024,Monaco,20,20,Haas VF-24,Ferrari V6 t h,Pirelli,0,Pile-up
+33,2023,São Paulo,12,20,Haas VF-23,Ferrari V6 t h,Pirelli,0,Collision
+32,2023,Mexico City,16,20,Haas VF-23,Ferrari V6 t h,Pirelli,31,Accident
+31,2023,Britain,19,20,Haas VF-23,Ferrari V6 t h,Pirelli,31,Engine
+30,2023,Monaco,17,20,Haas VF-23,Ferrari V6 t h,Pirelli,70,Collision damage
+29,2023,Australia,14,20,Haas VF-23,Ferrari V6 t h,Pirelli,52,Accident
+28,2022,São Paulo,8,20,Haas VF-22,Ferrari V6 t h,Pirelli,0,Collision
+27,2022,France,20,20,Haas VF-22,Ferrari V6 t h,Pirelli,37,Collision
+26,2022,Azerbaijan,16,20,Haas VF-22,Ferrari V6 t h,Pirelli,31,Engine
+25,2022,Monaco,13,20,Haas VF-22,Ferrari V6 t h,Pirelli,19,Water leak
+24,2022,Miami,16,20,Haas VF-22,Ferrari V6 t h,Pirelli,56,Wing
+23,2020,Turkey,13,20,Haas VF-20,Ferrari V6 t h,Pirelli,55,Back in the pits
+22,2020,Emilia-Romagna,17,20,Haas VF-20,Ferrari V6 t h,Pirelli,47,Pains
+21,2020,Tuscany,20,20,Haas VF-20,Ferrari V6 t h,Pirelli,5,Pile-up
+20,2020,Italy,15,20,Haas VF-20,Ferrari V6 t h,Pirelli,17,Engine
+19,2020,70th Anniversary,17,20,Haas VF-20,Ferrari V6 t h,Pirelli,43,Vibration
+18,2020,Britain,14,20,Haas VF-20,Ferrari V6 t h,Pirelli,1,Collision
+17,2020,Austria,16,20,Haas VF-20,Ferrari V6 t h,Pirelli,24,Brakes
+16,2019,USA,12,20,Haas VF-19,Ferrari V6 t h,Pirelli,52,Brakes
+15,2019,Italy,11,20,Haas VF-19,Ferrari V6 t h,Pirelli,43,Hydraulics
+14,2019,Britain,16,20,Haas VF-19,Ferrari V6 t h,Pirelli,6,Suspension
+13,2018,Japan,12,20,Haas VF-18,Ferrari V6 t h,Pirelli,8,Collision damage
+12,2018,Australia,5,20,Haas VF-18,Ferrari V6 t h,Pirelli,22,Wheel
+11,2017,Brazil,13,20,Haas VF-17,Ferrari V6 t h,Pirelli,0,Collision
+10,2017,Singapore,16,20,Haas VF-17,Ferrari V6 t h,Pirelli,50,Power loss
+9,2017,Austria,15,20,Haas VF-17,Ferrari V6 t h,Pirelli,29,Gearbox
+8,2017,Bahrain,20,20,Haas VF-17,Ferrari V6 t h,Pirelli,8,Electronics
+7,2017,Australia,17,20,Haas VF-17,Ferrari V6 t h,Pirelli,46,Suspension
+6,2016,Abu Dhabi,18,20,Renault R.S.16,Renault V6 t h,Pirelli,5,Suspension
+5,2016,Malaysia,14,20,Renault R.S.16,Renault V6 t h,Pirelli,17,Overheating
+4,2016,Belgium,12,20,Renault R.S.16,Renault V6 t h,Pirelli,5,Accident
+3,2016,Britain,16,20,Renault R.S.16,Renault V6 t h,Pirelli,49,Gearbox
+2,2016,Monaco,16,20,Renault R.S.16,Renault V6 t h,Pirelli,32,Accident
+1,2014,Bahrain,8,20,McLaren MP4-29,Mercedes V6 t h,Pirelli,40,Clutch
+,,,,, , ,,,

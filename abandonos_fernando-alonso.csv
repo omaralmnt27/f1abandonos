@@ -1,0 +1,78 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+76,2023,Mexico City,13,14,Aston Martin AMR23,Mercedes V6 t h,Pirelli,47,Collision damage
+75,2023,USA,19,14,Aston Martin AMR23,Mercedes V6 t h,Pirelli,49,Undertray
+74,2022,Abu Dhabi,10,14,Alpine A522,Renault V6 t h,Pirelli,27,Water leak
+73,2022,Mexico City,9,14,Alpine A522,Renault V6 t h,Pirelli,63,Engine
+72,2022,Singapore,5,14,Alpine A522,Renault V6 t h,Pirelli,20,Engine
+71,2022,Italy,6,14,Alpine A522,Renault V6 t h,Pirelli,31,Water pressure
+70,2022,Emilia-Romagna,9,14,Alpine A522,Renault V6 t h,Pirelli,6,Fairing
+69,2022,Saudi Arabia,7,14,Alpine A522,Renault V6 t h,Pirelli,35,Engine
+68,2021,USA,19,14,Alpine A521,Renault V6 t h,Pirelli,49,Wing
+67,2021,Bahrain,9,14,Alpine A521,Renault V6 t h,Pirelli,32,Brakes
+66,2018,Mexico,12,14,McLaren MCL33,Renault V6 t h,Pirelli,3,Overheating
+65,2018,USA,13,14,McLaren MCL33,Renault V6 t h,Pirelli,1,Collision
+64,2018,Italy,13,14,McLaren MCL33,Renault V6 t h,Pirelli,9,Electrics
+63,2018,Belgium,14,14,McLaren MCL33,Renault V6 t h,Pirelli,0,Pile-up
+62,2018,Germany,11,14,McLaren MCL33,Renault V6 t h,Pirelli,65,Gearbox
+61,2018,France,16,14,McLaren MCL33,Renault V6 t h,Pirelli,50,Suspension
+60,2018,Canada,14,14,McLaren MCL33,Renault V6 t h,Pirelli,40,Exhaust
+59,2018,Monaco,7,14,McLaren MCL33,Renault V6 t h,Pirelli,52,Gearbox
+58,2017,USA,8,14,McLaren MCL32,Honda V6 t h,Pirelli,24,Engine
+57,2017,Singapore,8,14,McLaren MCL32,Honda V6 t h,Pirelli,8,Collision damage
+56,2017,Italy,19,14,McLaren MCL32,Honda V6 t h,Pirelli,50,Gearbox
+55,2017,Belgium,10,14,McLaren MCL32,Honda V6 t h,Pirelli,25,Power loss
+54,2017,Britain,20,14,McLaren MCL32,Honda V6 t h,Pirelli,32,Power loss
+53,2017,Austria,12,14,McLaren MCL32,Honda V6 t h,Pirelli,1,Collision
+52,2017,Canada,12,14,McLaren MCL32,Honda V6 t h,Pirelli,66,Engine
+51,2017,Bahrain,15,14,McLaren MCL32,Honda V6 t h,Pirelli,54,Engine
+50,2017,China,13,14,McLaren MCL32,Honda V6 t h,Pirelli,33,Transmission
+49,2017,Australia,12,14,McLaren MCL32,Honda V6 t h,Pirelli,50,Suspension
+48,2016,Austria,14,14,McLaren MP4-31,Honda V6 t h,Pirelli,64,ERS
+47,2016,Europe,13,14,McLaren MP4-31,Honda V6 t h,Pirelli,42,Gearbox
+46,2016,Spain,10,14,McLaren MP4-31,Honda V6 t h,Pirelli,45,Power loss
+45,2016,Australia,11,14,McLaren MP4-31,Honda V6 t h,Pirelli,16,Collision
+44,2015,Mexico,18,14,McLaren MP4-30,Honda V6 t h,Pirelli,1,Power loss
+43,2015,Singapore,12,14,McLaren MP4-30,Honda V6 t h,Pirelli,33,Gearbox
+42,2015,Italy,16,14,McLaren MP4-30,Honda V6 t h,Pirelli,47,Power loss
+41,2015,Austria,19,14,McLaren MP4-30,Honda V6 t h,Pirelli,0,Collision
+40,2015,Canada,13,14,McLaren MP4-30,Honda V6 t h,Pirelli,44,Exhaust
+39,2015,Monaco,13,14,McLaren MP4-30,Honda V6 t h,Pirelli,41,Overheating
+38,2015,Spain,13,14,McLaren MP4-30,Honda V6 t h,Pirelli,26,Brakes
+37,2015,Malaysia,18,14,McLaren MP4-30,Honda V6 t h,Pirelli,21,ERS
+36,2014,Japan,5,14,Ferrari F14 T,Ferrari V6 t h,Pirelli,2,Electrics
+35,2014,Italy,7,14,Ferrari F14 T,Ferrari V6 t h,Pirelli,28,KERS
+34,2013,Malaysia,3,3,Ferrari F138,Ferrari V8,Pirelli,1,Runway exit
+33,2012,Japan,6,5,Ferrari F2012,Ferrari V8,Pirelli,0,Puncture
+32,2012,Belgium,5,5,Ferrari F2012,Ferrari V8,Pirelli,0,Pile-up
+31,2011,Canada,2,5,Ferrari 150° Italia,Ferrari V8,Pirelli,36,Collision
+30,2010,Belgium,10,8,Ferrari F10,Ferrari V8,Bridgestone,37,Accident
+29,2010,Malaysia,19,8,Ferrari F10,Ferrari V8,Bridgestone,54,Engine
+28,2009,Brazil,10,7,Renault R29,Renault V8,Bridgestone,0,Collision
+27,2009,Belgium,13,7,Renault R29,Renault V8,Bridgestone,26,Wheel
+26,2009,Hungary,1,7,Renault R29,Renault V8,Bridgestone,15,Fuel pump
+25,2008,Europe,12,5,Renault R28,Renault V8,Bridgestone,0,Collision
+24,2008,Canada,4,5,Renault R28,Renault V8,Bridgestone,44,Accident
+23,2008,Spain,2,5,Renault R28,Renault V8,Bridgestone,34,Engine
+22,2007,Japan,2,1,McLaren MP4-22,Mercedes V8,Bridgestone,41,Accident
+21,2006,Italy,10,1,Renault R26,Renault V8,Michelin,43,Engine
+20,2006,Hungary,15,1,Renault R26,Renault V8,Michelin,51,Wheel nut
+19,2005,Canada,3,5,Renault R25,Renault V10,Michelin,38,Accident
+18,2004,Italy,4,8,Renault R24,Renault V10,Michelin,40,Spin
+17,2004,Belgium,3,8,Renault R24,Renault V10,Michelin,11,Spin
+16,2004,USA,9,8,Renault R24,Renault V10,Michelin,8,Puncture
+15,2004,Canada,5,8,Renault R24,Renault V10,Michelin,44,Transmission
+14,2004,Monaco,3,8,Renault R24,Renault V10,Michelin,41,Accident
+13,2003,Japan,5,8,Renault R23B,Renault V10,Michelin,17,Engine
+12,2003,USA,6,8,Renault R23B,Renault V10,Michelin,44,Engine
+11,2003,Britain,8,8,Renault R23B,Renault V10,Michelin,52,Gearbox
+10,2003,France,7,8,Renault R23,Renault V10,Michelin,43,Engine
+9,2003,Austria,19,8,Renault R23,Renault V10,Michelin,44,Engine
+8,2001,USA,17,21,Minardi PS01,European V10,Michelin,36,Transmission
+7,2001,Hungary,18,21,Minardi PS01,European V10,Michelin,37,Runway exit
+6,2001,France,21,21,Minardi PS01,European V10,Michelin,65,Engine
+5,2001,Canada,22,21,Minardi PS01,European V10,Michelin,7,Transmission
+4,2001,Monaco,18,21,Minardi PS01,European V10,Michelin,54,Gearbox
+3,2001,Austria,18,21,Minardi PS01,European V10,Michelin,38,Clutch
+2,2001,San Marino,18,21,Minardi PS01,European V10,Michelin,5,Accident
+1,2001,Brazil,19,21,Minardi PS01,European V10,Michelin,25,Electronics
+,,,,, , ,,,

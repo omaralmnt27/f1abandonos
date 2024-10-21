@@ -1,0 +1,21 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+19,2024,Britain,1,63,Mercedes F1 W15,Mercedes V6 t h,Pirelli,33,Water leak
+18,2024,Australia,7,63,Mercedes F1 W15,Mercedes V6 t h,Pirelli,56,Accident
+17,2023,São Paulo,8,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,57,Oil temperature
+16,2023,Singapore,2,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,61,Accident
+15,2023,Canada,4,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,53,Brakes
+14,2023,Australia,2,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,17,Engine
+13,2022,Britain,8,63,Mercedes F1 W13,Mercedes V6 t h,Pirelli,0,Pile-up
+12,2021,Abu Dhabi,17,63,Williams FW43B,Mercedes V6 t h,Pirelli,26,Gearbox
+11,2021,Saudi Arabia,14,63,Williams FW43B,Mercedes V6 t h,Pirelli,14,Collision
+10,2021,Netherlands,11,63,Williams FW43B,Mercedes V6 t h,Pirelli,69,Gearbox
+9,2021,Styria,10,63,Williams FW43B,Mercedes V6 t h,Pirelli,36,Air pressure
+8,2021,Azerbaijan,15,63,Williams FW43B,Mercedes V6 t h,Pirelli,48,Gearbox
+7,2021,Emilia-Romagna,12,63,Williams FW43B,Mercedes V6 t h,Pirelli,30,Collision
+6,2020,Emilia-Romagna,13,63,Williams FW43,Mercedes V6 t h,Pirelli,51,Accident
+5,2020,Eifel,17,63,Williams FW43,Mercedes V6 t h,Pirelli,12,Collision
+4,2020,Belgium,15,63,Williams FW43,Mercedes V6 t h,Pirelli,9,Accident
+3,2020,Austria,17,63,Williams FW43,Mercedes V6 t h,Pirelli,49,Fuel pressure
+2,2019,Russia,17,63,Williams FW42,Mercedes V6 t h,Pirelli,27,Accident
+1,2019,Singapore,18,63,Williams FW42,Mercedes V6 t h,Pirelli,34,Collision
+,,,,, , ,,,

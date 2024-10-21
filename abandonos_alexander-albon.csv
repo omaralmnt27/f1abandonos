@@ -1,0 +1,17 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+16,2024,Singapore,11,23,Williams FW46,Mercedes V6 t h,Pirelli,15,Overheating
+15,2024,Canada,10,23,Williams FW46,Mercedes V6 t h,Pirelli,52,Collision
+14,2024,Emilia-Romagna,14,23,Williams FW46,Mercedes V6 t h,Pirelli,51,Withdrew
+13,2024,Japan,14,23,Williams FW46,Mercedes V6 t h,Pirelli,0,Collision
+12,2023,São Paulo,13,23,Williams FW45,Mercedes V6 t h,Pirelli,0,Collision
+11,2023,Japan,13,23,Williams FW45,Mercedes V6 t h,Pirelli,26,Undertray
+10,2023,Australia,8,23,Williams FW45,Mercedes V6 t h,Pirelli,6,Accident
+9,2023,Saudi Arabia,17,23,Williams FW45,Mercedes V6 t h,Pirelli,27,Brakes
+8,2022,Japan,16,23,Williams FW44,Mercedes V6 t h,Pirelli,0,Water pressure
+7,2022,Singapore,18,23,Williams FW44,Mercedes V6 t h,Pirelli,25,Collision damage
+6,2022,Britain,16,23,Williams FW44,Mercedes V6 t h,Pirelli,0,Pile-up
+5,2022,Monaco,16,23,Williams FW44,Mercedes V6 t h,Pirelli,48,Handling
+4,2022,Saudi Arabia,16,23,Williams FW44,Mercedes V6 t h,Pirelli,47,Collision
+3,2020,Eifel,5,23,Red Bull RB16,Honda V6 t h,Pirelli,23,Overheating
+2,2020,Austria,4,23,Red Bull RB16,Honda V6 t h,Pirelli,67,Electronics
+1,2019,Canada,13,23,Toro Rosso STR14,Honda V6 t h,Pirelli,59,Withdrew

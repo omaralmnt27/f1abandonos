@@ -1,0 +1,24 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+23,2024,Monaco,11,31,Alpine A524,Renault V6 t h,Pirelli,0,Collision
+22,2023,USA,8,31,Alpine A523,Renault V6 t h,Pirelli,6,Undertray
+21,2023,Singapore,8,31,Alpine A523,Renault V6 t h,Pirelli,42,Gearbox
+20,2023,Italy,18,31,Alpine A523,Renault V6 t h,Pirelli,39,Steering
+19,2023,Hungary,12,31,Alpine A523,Renault V6 t h,Pirelli,2,Collision
+18,2023,Britain,13,31,Alpine A523,Renault V6 t h,Pirelli,9,Hydraulics
+17,2023,Australia,11,31,Alpine A523,Renault V6 t h,Pirelli,56,Collision
+16,2023,Bahrain,9,31,Alpine A523,Renault V6 t h,Pirelli,41,Withdrew
+15,2022,Singapore,17,31,Alpine A522,Renault V6 t h,Pirelli,26,Engine
+14,2022,Britain,15,31,Alpine A522,Renault V6 t h,Pirelli,37,Fuel pump
+13,2021,USA,11,31,Alpine A521,Renault V6 t h,Pirelli,40,Handling
+12,2021,Austria,17,31,Alpine A521,Renault V6 t h,Pirelli,0,Collision
+11,2021,Azerbaijan,12,31,Alpine A521,Renault V6 t h,Pirelli,3,Turbo
+10,2020,Emilia-Romagna,12,31,Renault R.S.20,Renault V6 t h,Pirelli,27,Drive shaft
+9,2020,Eifel,7,31,Renault R.S.20,Renault V6 t h,Pirelli,22,Hydraulics
+8,2020,Tuscany,10,31,Renault R.S.20,Renault V6 t h,Pirelli,7,Brakes
+7,2020,Styria,5,31,Renault R.S.20,Renault V6 t h,Pirelli,25,Overheating
+6,2018,Abu Dhabi,9,31,Force India VJM11,Mercedes V6 t h,Pirelli,44,Engine
+5,2018,Singapore,9,31,Force India VJM11,Mercedes V6 t h,Pirelli,0,Accident
+4,2018,France,11,31,Force India VJM11,Mercedes V6 t h,Pirelli,0,Collision
+3,2018,Spain,13,31,Force India VJM11,Mercedes V6 t h,Pirelli,38,Radiator
+2,2018,Azerbaijan,7,31,Force India VJM11,Mercedes V6 t h,Pirelli,0,Collision
+1,2017,Brazil,10,31,Force India VJM10,Mercedes V6 t h,Pirelli,0,Collision

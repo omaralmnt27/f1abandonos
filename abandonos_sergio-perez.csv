@@ -1,0 +1,38 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+36,2024,Azerbaijan,4,11,Red Bull RB20,Honda RBPT V6 t h,Pirelli,49,Collision
+35,2024,Canada,16,11,Red Bull RB20,Honda RBPT V6 t h,Pirelli,51,Accident
+34,2024,Monaco,16,11,Red Bull RB20,Honda RBPT V6 t h,Pirelli,0,Pile-up
+33,2023,Mexico City,5,11,Red Bull RB19,Honda RBPT V6 t h,Pirelli,1,Collision
+32,2023,Japan,5,11,Red Bull RB19,Honda RBPT V6 t h,Pirelli,15,Withdrew
+31,2022,Austria,5,11,Red Bull RB18,RBPT V6 t h,Pirelli,24,Collision damage
+30,2022,Canada,13,11,Red Bull RB18,RBPT V6 t h,Pirelli,7,Gearbox
+29,2022,Bahrain,4,11,Red Bull RB18,RBPT V6 t h,Pirelli,56,Fuel injection
+28,2021,Abu Dhabi,4,11,Red Bull RB16B,Honda V6 t h,Pirelli,55,Oil pressure
+27,2021,Saudi Arabia,5,11,Red Bull RB16B,Honda V6 t h,Pirelli,14,Accident
+26,2021,Hungary,4,11,Red Bull RB16B,Honda V6 t h,Pirelli,0,Pile-up
+25,2020,Abu Dhabi,19,11,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,8,Engine
+24,2020,Bahrain,5,11,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,53,Engine
+23,2019,Singapore,15,11,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,42,Oil leak
+22,2019,Germany,8,11,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,1,Accident
+21,2018,Mexico,13,11,Force India VJM11,Mercedes V6 t h,Pirelli,38,Brakes
+20,2018,France,13,11,Force India VJM11,Mercedes V6 t h,Pirelli,27,Water pressure
+19,2017,Belgium,8,11,Force India VJM10,Mercedes V6 t h,Pirelli,42,Handling
+18,2017,Azerbaijan,6,11,Force India VJM10,Mercedes V6 t h,Pirelli,39,Broken Seat
+17,2016,Austria,16,11,Force India VJM09,Mercedes V6 t h,Pirelli,69,Accident
+16,2015,Hungary,13,11,Force India VJM08,Mercedes V6 t h,Pirelli,53,Brakes
+15,2014,USA,11,11,Force India VJM07,Mercedes V6 t h,Pirelli,1,Collision
+14,2014,Hungary,12,11,Force India VJM07,Mercedes V6 t h,Pirelli,22,Accident
+13,2014,Canada,13,11,Force India VJM07,Mercedes V6 t h,Pirelli,69,Collision
+12,2014,Monaco,10,11,Force India VJM07,Mercedes V6 t h,Pirelli,0,Collision
+11,2013,Britain,13,6,McLaren MP4-28,Mercedes V8,Pirelli,46,Tyre
+10,2013,Monaco,7,6,McLaren MP4-28,Mercedes V8,Pirelli,72,Brakes
+9,2012,Brazil,12,15,Sauber C31,Ferrari V8,Pirelli,0,Collision
+8,2012,India,8,15,Sauber C31,Ferrari V8,Pirelli,20,Puncture
+7,2012,Japan,5,15,Sauber C31,Ferrari V8,Pirelli,18,Spin
+6,2012,Belgium,4,15,Sauber C31,Ferrari V8,Pirelli,0,Pile-up
+5,2012,Britain,15,15,Sauber C31,Ferrari V8,Pirelli,11,Collision
+4,2012,Spain,5,15,Sauber C31,Ferrari V8,Pirelli,37,Transmission
+3,2011,Italy,15,17,Sauber C30,Ferrari V8,Pirelli,32,Gearbox
+2,2011,Belgium,9,17,Sauber C30,Ferrari V8,Pirelli,27,Suspension
+1,2011,Malaysia,16,17,Sauber C30,Ferrari V8,Pirelli,23,Electrics
+,,,,, , ,,,

@@ -1,0 +1,25 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+23,2024,Hungary,20,10,Alpine A524,Renault V6 t h,Pirelli,33,Hydraulics
+22,2024,Saudi Arabia,18,10,Alpine A524,Renault V6 t h,Pirelli,1,Gearbox
+21,2023,Hungary,15,10,Alpine A523,Renault V6 t h,Pirelli,1,Collision
+20,2023,Britain,10,10,Alpine A523,Renault V6 t h,Pirelli,46,Collision
+19,2023,Australia,9,10,Alpine A523,Renault V6 t h,Pirelli,56,Collision
+18,2022,Britain,11,10,AlphaTauri AT03,RBPT V6 t h,Pirelli,26,Rear wing
+17,2022,Miami,7,10,AlphaTauri AT03,RBPT V6 t h,Pirelli,45,Suspension
+16,2022,Bahrain,10,10,AlphaTauri AT03,RBPT V6 t h,Pirelli,44,Fire
+15,2021,USA,8,10,AlphaTauri AT02,Honda V6 t h,Pirelli,14,Suspension
+14,2021,Italy,20,10,AlphaTauri AT02,Honda V6 t h,Pirelli,3,Suspension
+13,2021,Styria,6,10,AlphaTauri AT02,Honda V6 t h,Pirelli,1,Collision
+12,2021,Bahrain,5,10,AlphaTauri AT02,Honda V6 t h,Pirelli,52,Undertray
+11,2020,Emilia-Romagna,4,10,AlphaTauri AT01,Honda V6 t h,Pirelli,8,Water leak
+10,2020,Tuscany,16,10,AlphaTauri AT01,Honda V6 t h,Pirelli,0,Collision
+9,2020,Hungary,10,10,AlphaTauri AT01,Honda V6 t h,Pirelli,15,Gearbox
+8,2019,USA,10,10,Toro Rosso STR14,Honda V6 t h,Pirelli,54,Suspension
+7,2019,Germany,4,10,Red Bull RB15,Honda V6 t h,Pirelli,61,Collision
+6,2019,Azerbaijan,20,10,Red Bull RB15,Honda V6 t h,Pirelli,38,Drive shaft
+5,2018,Abu Dhabi,17,10,Toro Rosso STR13,Honda V6 t h,Pirelli,46,Engine
+4,2018,Russia,17,10,Toro Rosso STR13,Honda V6 t h,Pirelli,4,Brakes
+3,2018,France,14,10,Toro Rosso STR13,Honda V6 t h,Pirelli,0,Collision
+2,2018,Spain,12,10,Toro Rosso STR13,Honda V6 t h,Pirelli,0,Collision
+1,2018,Australia,20,10,Toro Rosso STR13,Honda V6 t h,Pirelli,13,Engine
+,,,,, , ,,,

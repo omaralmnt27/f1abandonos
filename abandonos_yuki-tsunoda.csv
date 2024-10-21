@@ -1,0 +1,15 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+13,2024,Azerbaijan,11,22,RB VCARB 01,Honda RBPT V6 t h,Pirelli,14,Collision damage
+12,2024,Italy,16,22,RB VCARB 01,Honda RBPT V6 t h,Pirelli,7,Collision damage
+11,2024,China,19,22,RB VCARB 01,Honda RBPT V6 t h,Pirelli,26,Collision
+10,2023,Las Vegas,20,22,AlphaTauri AT04,Honda RBPT V6 t h,Pirelli,46,Gearbox
+9,2023,Singapore,15,22,AlphaTauri AT04,Honda RBPT V6 t h,Pirelli,0,Collision
+8,2022,Mexico City,13,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,50,Collision
+7,2022,Singapore,10,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,34,Accident
+6,2022,Netherlands,9,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,43,Differential
+5,2022,France,8,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,17,Fairing
+4,2022,Canada,20,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,47,Runway exit
+3,2021,Mexico City,17,22,AlphaTauri AT02,Honda V6 t h,Pirelli,0,Collision
+2,2021,Netherlands,14,22,AlphaTauri AT02,Honda V6 t h,Pirelli,48,Engine
+1,2021,Spain,16,22,AlphaTauri AT02,Honda V6 t h,Pirelli,6,Electrics
+

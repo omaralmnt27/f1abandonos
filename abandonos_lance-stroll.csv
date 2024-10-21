@@ -1,0 +1,30 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement
+28,2024,Azerbaijan,13,18,Aston Martin AMR24,Mercedes V6 t h,Pirelli,45,Brakes
+27,2024,Saudi Arabia,10,18,Aston Martin AMR24,Mercedes V6 t h,Pirelli,5,Accident
+26,2023,Mexico City,20,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,66,Collision
+25,2023,Japan,17,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,20,Rear wing
+24,2023,Monaco,14,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,53,Brakes
+23,2023,Saudi Arabia,5,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,16,Engine
+22,2022,USA,5,18,Aston Martin AMR22,Mercedes V6 t h,Pirelli,21,Collision
+21,2022,Italy,12,18,Aston Martin AMR22,Mercedes V6 t h,Pirelli,39,Withdrew
+20,2022,Azerbaijan,19,18,Aston Martin AMR22,Mercedes V6 t h,Pirelli,46,Vibration
+19,2021,São Paulo,14,18,Aston Martin AMR21,Mercedes V6 t h,Pirelli,47,Undertray
+18,2021,Hungary,12,18,Aston Martin AMR21,Mercedes V6 t h,Pirelli,0,Pile-up
+17,2021,Azerbaijan,19,18,Aston Martin AMR21,Mercedes V6 t h,Pirelli,29,Accident
+16,2020,Bahrain,13,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,2,Accident
+15,2020,Portugal,12,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,51,Collision damage
+14,2020,Russia,12,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,0,Accident
+13,2020,Tuscany,6,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,42,Accident
+12,2020,Austria,9,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,20,Engine
+11,2019,Abu Dhabi,12,18,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,45,Brakes
+10,2019,Brazil,17,18,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,65,Suspension
+9,2019,Spain,16,18,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,44,Collision
+8,2018,Germany,17,18,Williams FW41,Mercedes V6 t h,Pirelli,53,Brakes
+7,2018,France,19,18,Williams FW41,Mercedes V6 t h,Pirelli,48,Puncture
+6,2018,Canada,16,18,Williams FW41,Mercedes V6 t h,Pirelli,0,Collision
+5,2017,Japan,15,18,Williams FW40,Mercedes V6 t h,Pirelli,45,Wheel
+4,2017,Monaco,17,18,Williams FW40,Mercedes V6 t h,Pirelli,71,Brakes
+3,2017,Bahrain,12,18,Williams FW40,Mercedes V6 t h,Pirelli,12,Collision
+2,2017,China,10,18,Williams FW40,Mercedes V6 t h,Pirelli,0,Collision
+1,2017,Australia,20,18,Williams FW40,Mercedes V6 t h,Pirelli,40,Brakes
+,,,,, , ,,,
