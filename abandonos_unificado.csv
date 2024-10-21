@@ -1,0 +1,534 @@
+N,Year,Grand Prix,Grid,N°,Chassis,Engine,Tyre,Lap,Retirement,Pilot Name
+16,2024,Singapore,11,23,Williams FW46,Mercedes V6 t h,Pirelli,15,Overheating,Alexander Albon
+15,2024,Canada,10,23,Williams FW46,Mercedes V6 t h,Pirelli,52,Collision,Alexander Albon
+14,2024,Emilia-Romagna,14,23,Williams FW46,Mercedes V6 t h,Pirelli,51,Withdrew,Alexander Albon
+13,2024,Japan,14,23,Williams FW46,Mercedes V6 t h,Pirelli,0,Collision,Alexander Albon
+12,2023,São Paulo,13,23,Williams FW45,Mercedes V6 t h,Pirelli,0,Collision,Alexander Albon
+11,2023,Japan,13,23,Williams FW45,Mercedes V6 t h,Pirelli,26,Undertray,Alexander Albon
+10,2023,Australia,8,23,Williams FW45,Mercedes V6 t h,Pirelli,6,Accident,Alexander Albon
+9,2023,Saudi Arabia,17,23,Williams FW45,Mercedes V6 t h,Pirelli,27,Brakes,Alexander Albon
+8,2022,Japan,16,23,Williams FW44,Mercedes V6 t h,Pirelli,0,Water pressure,Alexander Albon
+7,2022,Singapore,18,23,Williams FW44,Mercedes V6 t h,Pirelli,25,Collision damage,Alexander Albon
+6,2022,Britain,16,23,Williams FW44,Mercedes V6 t h,Pirelli,0,Pile-up,Alexander Albon
+5,2022,Monaco,16,23,Williams FW44,Mercedes V6 t h,Pirelli,48,Handling,Alexander Albon
+4,2022,Saudi Arabia,16,23,Williams FW44,Mercedes V6 t h,Pirelli,47,Collision,Alexander Albon
+3,2020,Eifel,5,23,Red Bull RB16,Honda V6 t h,Pirelli,23,Overheating,Alexander Albon
+2,2020,Austria,4,23,Red Bull RB16,Honda V6 t h,Pirelli,67,Electronics,Alexander Albon
+1,2019,Canada,13,23,Toro Rosso STR14,Honda V6 t h,Pirelli,59,Withdrew,Alexander Albon
+37,2024,Azerbaijan,3,55,Ferrari SF-24,Ferrari V6 t h,Pirelli,49,Collision,Carlos Sainz
+36,2024,Canada,12,55,Ferrari SF-24,Ferrari V6 t h,Pirelli,52,Collision,Carlos Sainz
+35,2023,Abu Dhabi,16,55,Ferrari SF-23,Ferrari V6 t h,Pirelli,57,Engine,Carlos Sainz
+34,2023,Belgium,4,55,Ferrari SF-23,Ferrari V6 t h,Pirelli,23,Collision damage,Carlos Sainz
+33,2022,USA,1,55,Ferrari F1-75,Ferrari V6 t h,Pirelli,1,Collision,Carlos Sainz
+32,2022,Japan,3,55,Ferrari F1-75,Ferrari V6 t h,Pirelli,0,Accident,Carlos Sainz
+31,2022,Austria,3,55,Ferrari F1-75,Ferrari V6 t h,Pirelli,56,Engine,Carlos Sainz
+30,2022,Azerbaijan,4,55,Ferrari F1-75,Ferrari V6 t h,Pirelli,8,Hydraulics,Carlos Sainz
+29,2022,Emilia-Romagna,4,55,Ferrari F1-75,Ferrari V6 t h,Pirelli,0,Collision,Carlos Sainz
+28,2022,Australia,9,55,Ferrari F1-75,Ferrari V6 t h,Pirelli,1,Runway exit,Carlos Sainz
+27,2020,Russia,6,55,McLaren MCL35,Renault V6 t h,Pirelli,0,Accident,Carlos Sainz
+26,2020,Tuscany,9,55,McLaren MCL35,Renault V6 t h,Pirelli,5,Pile-up,Carlos Sainz
+25,2019,Italy,7,55,McLaren MCL34,Renault V6 t h,Pirelli,27,Wheel,Carlos Sainz
+24,2019,Belgium,15,55,McLaren MCL34,Renault V6 t h,Pirelli,1,Engine,Carlos Sainz
+23,2019,Bahrain,7,55,McLaren MCL34,Renault V6 t h,Pirelli,53,Gearbox,Carlos Sainz
+22,2019,Australia,18,55,McLaren MCL34,Renault V6 t h,Pirelli,9,Engine,Carlos Sainz
+21,2018,Mexico,8,55,Renault R.S.18,Renault V6 t h,Pirelli,28,Battery,Carlos Sainz
+20,2018,Britain,16,55,Renault R.S.18,Renault V6 t h,Pirelli,37,Collision,Carlos Sainz
+19,2017,Abu Dhabi,12,55,Renault R.S.17,Renault V6 t h,Pirelli,31,Wheel,Carlos Sainz
+18,2017,Mexico,8,55,Renault R.S.17,Renault V6 t h,Pirelli,59,Steering,Carlos Sainz
+17,2017,Japan,19,55,Toro Rosso STR12,Renault V6 t h,Pirelli,0,Accident,Carlos Sainz
+16,2017,Malaysia,14,55,Toro Rosso STR12,Renault V6 t h,Pirelli,29,Electrics,Carlos Sainz
+15,2017,Britain,13,55,Toro Rosso STR12,Renault V6 t h,Pirelli,0,Collision,Carlos Sainz
+14,2017,Austria,10,55,Toro Rosso STR12,Renault V6 t h,Pirelli,44,Engine,Carlos Sainz
+13,2017,Canada,13,55,Toro Rosso STR12,Renault V6 t h,Pirelli,0,Collision,Carlos Sainz
+12,2017,Bahrain,16,55,Toro Rosso STR12,Renault V6 t h,Pirelli,12,Collision,Carlos Sainz
+11,2016,Abu Dhabi,21,55,Toro Rosso STR11,Ferrari V6 t h,Pirelli,41,Collision,Carlos Sainz
+10,2016,Belgium,14,55,Toro Rosso STR11,Ferrari V6 t h,Pirelli,1,Puncture,Carlos Sainz
+9,2016,Europe,18,55,Toro Rosso STR11,Ferrari V6 t h,Pirelli,31,Suspension,Carlos Sainz
+8,2016,Bahrain,11,55,Toro Rosso STR11,Ferrari V6 t h,Pirelli,29,Steering,Carlos Sainz
+7,2015,Brazil,10,55,Toro Rosso STR10,Renault V6 t h,Pirelli,0,Power loss,Carlos Sainz
+6,2015,Russia,20,55,Toro Rosso STR10,Renault V6 t h,Pirelli,45,Brakes,Carlos Sainz
+5,2015,Belgium,10,55,Toro Rosso STR10,Renault V6 t h,Pirelli,32,Withdrew,Carlos Sainz
+4,2015,Hungary,12,55,Toro Rosso STR10,Renault V6 t h,Pirelli,60,Power loss,Carlos Sainz
+3,2015,Britain,8,55,Toro Rosso STR10,Renault V6 t h,Pirelli,31,Electrics,Carlos Sainz
+2,2015,Austria,12,55,Toro Rosso STR10,Renault V6 t h,Pirelli,35,Power loss,Carlos Sainz
+1,2015,Bahrain,9,55,Toro Rosso STR10,Renault V6 t h,Pirelli,29,Wheel,Carlos Sainz
+21,2024,Canada,11,16,Ferrari SF-24,Ferrari V6 t h,Pirelli,40,Engine,charles Leclerc
+20,2023,Netherlands,9,16,Ferrari SF-23,Ferrari V6 t h,Pirelli,41,Undertray,charles Leclerc
+19,2023,Australia,7,16,Ferrari SF-23,Ferrari V6 t h,Pirelli,0,Collision,charles Leclerc
+18,2023,Bahrain,3,16,Ferrari SF-23,Ferrari V6 t h,Pirelli,39,Engine,charles Leclerc
+17,2022,France,1,16,Ferrari F1-75,Ferrari V6 t h,Pirelli,17,Accident,charles Leclerc
+16,2022,Azerbaijan,1,16,Ferrari F1-75,Ferrari V6 t h,Pirelli,21,Engine,charles Leclerc
+15,2022,Spain,1,16,Ferrari F1-75,Ferrari V6 t h,Pirelli,27,Turbo,charles Leclerc
+14,2021,Hungary,7,16,Ferrari SF21,Ferrari V6 t h,Pirelli,0,Pile-up,charles Leclerc
+13,2020,Sakhir,4,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,0,Collision,charles Leclerc
+12,2020,Italy,13,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,23,Accident,charles Leclerc
+11,2020,Spain,9,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,38,Electrics,charles Leclerc
+10,2020,Styria,14,16,Ferrari SF1000,Ferrari V6 t h,Pirelli,4,Collision damage,charles Leclerc
+9,2019,Brazil,14,16,Ferrari SF90,Ferrari V6 t h,Pirelli,65,Collision,charles Leclerc
+8,2019,Germany,10,16,Ferrari SF90,Ferrari V6 t h,Pirelli,27,Accident,charles Leclerc
+7,2019,Monaco,15,16,Ferrari SF90,Ferrari V6 t h,Pirelli,16,Collision damage,charles Leclerc
+6,2018,USA,9,16,Sauber C37,Ferrari V6 t h,Pirelli,31,Collision damage,charles Leclerc
+5,2018,Japan,10,16,Sauber C37,Ferrari V6 t h,Pirelli,38,Suspension,charles Leclerc
+4,2018,Belgium,12,16,Sauber C37,Ferrari V6 t h,Pirelli,0,Pile-up,charles Leclerc
+3,2018,Hungary,16,16,Sauber C37,Ferrari V6 t h,Pirelli,0,Collision,charles Leclerc
+2,2018,Britain,9,16,Sauber C37,Ferrari V6 t h,Pirelli,18,Wheel,charles Leclerc
+1,2018,Monaco,14,16,Sauber C37,Ferrari V6 t h,Pirelli,70,Collision,charles Leclerc
+39,2024,China,12,3,RB VCARB 01,Honda RBPT V6 t h,Pirelli,33,Collision,Daniel Ricciardo
+38,2024,Japan,11,3,RB VCARB 01,Honda RBPT V6 t h,Pirelli,0,Collision,Daniel Ricciardo
+37,2022,São Paulo,11,3,McLaren MCL36,Mercedes V6 t h,Pirelli,0,Collision,Daniel Ricciardo
+36,2022,Italy,4,3,McLaren MCL36,Mercedes V6 t h,Pirelli,45,Oil leak,Daniel Ricciardo
+35,2022,Saudi Arabia,14,3,McLaren MCL36,Mercedes V6 t h,Pirelli,35,Clutch,Daniel Ricciardo
+34,2021,São Paulo,11,3,McLaren MCL35M,Mercedes V6 t h,Pirelli,49,Engine,Daniel Ricciardo
+33,2020,Austria,10,3,Renault R.S.20,Renault V6 t h,Pirelli,17,Overheating,Daniel Ricciardo
+32,2019,Russia,10,3,Renault R.S.19,Renault V6 t h,Pirelli,24,Handling,Daniel Ricciardo
+31,2019,Germany,13,3,Renault R.S.19,Renault V6 t h,Pirelli,13,Exhaust,Daniel Ricciardo
+30,2019,Azerbaijan,10,3,Renault R.S.19,Renault V6 t h,Pirelli,31,Collision,Daniel Ricciardo
+29,2019,Bahrain,10,3,Renault R.S.19,Renault V6 t h,Pirelli,53,Power loss,Daniel Ricciardo
+28,2019,Australia,12,3,Renault R.S.19,Renault V6 t h,Pirelli,28,Collision damage,Daniel Ricciardo
+27,2018,Mexico,1,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,61,Clutch,Daniel Ricciardo
+26,2018,USA,4,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,8,Battery,Daniel Ricciardo
+25,2018,Italy,19,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,23,Clutch,Daniel Ricciardo
+24,2018,Belgium,8,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,28,Withdrew,Daniel Ricciardo
+23,2018,Germany,19,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,27,Power loss,Daniel Ricciardo
+22,2018,Austria,7,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,53,Exhaust,Daniel Ricciardo
+21,2018,Azerbaijan,4,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,39,Collision,Daniel Ricciardo
+20,2018,Bahrain,4,3,Red Bull RB14,TAG Heuer V6 t h,Pirelli,1,Electrics,Daniel Ricciardo
+19,2017,Abu Dhabi,4,3,Red Bull RB13,TAG Heuer V6 t h,Pirelli,20,Hydraulics,Daniel Ricciardo
+18,2017,Mexico,16,3,Red Bull RB13,TAG Heuer V6 t h,Pirelli,5,Turbo,Daniel Ricciardo
+17,2017,USA,4,3,Red Bull RB13,TAG Heuer V6 t h,Pirelli,14,Engine,Daniel Ricciardo
+16,2017,Hungary,6,3,Red Bull RB13,TAG Heuer V6 t h,Pirelli,0,Collision,Daniel Ricciardo
+15,2017,Russia,5,3,Red Bull RB13,TAG Heuer V6 t h,Pirelli,5,Brakes,Daniel Ricciardo
+14,2017,Australia,15,3,Red Bull RB13,TAG Heuer V6 t h,Pirelli,25,Engine,Daniel Ricciardo
+13,2015,Russia,10,3,Red Bull RB11,Renault V6 t h,Pirelli,47,Suspension,Daniel Ricciardo
+12,2015,Belgium,5,3,Red Bull RB11,Renault V6 t h,Pirelli,19,Power loss,Daniel Ricciardo
+11,2015,Britain,10,3,Red Bull RB11,Renault V6 t h,Pirelli,21,ERS,Daniel Ricciardo
+10,2014,Brazil,9,3,Red Bull RB10,Renault V6 t h,Pirelli,39,Suspension,Daniel Ricciardo
+9,2014,Malaysia,5,3,Red Bull RB10,Renault V6 t h,Pirelli,49,Withdrew,Daniel Ricciardo
+8,2013,South Korea,12,19,Toro Rosso STR8,Ferrari V8,Pirelli,52,Brakes,Daniel Ricciardo
+7,2013,Singapore,9,19,Toro Rosso STR8,Ferrari V8,Pirelli,23,Accident,Daniel Ricciardo
+6,2013,Monaco,12,19,Toro Rosso STR8,Ferrari V8,Pirelli,61,Collision,Daniel Ricciardo
+5,2013,Malaysia,13,19,Toro Rosso STR8,Ferrari V8,Pirelli,51,Exhaust,Daniel Ricciardo
+4,2013,Australia,14,19,Toro Rosso STR8,Ferrari V8,Pirelli,39,Exhaust,Daniel Ricciardo
+3,2012,Monaco,15,16,Toro Rosso STR7,Ferrari V8,Pirelli,65,Steering,Daniel Ricciardo
+2,2011,Abu Dhabi,20,22,HRT F111,Cosworth V8,Pirelli,48,Electrics,Daniel Ricciardo
+1,2011,Belgium,23,22,HRT F111,Cosworth V8,Pirelli,13,Vibration,Daniel Ricciardo
+23,2024,Monaco,11,31,Alpine A524,Renault V6 t h,Pirelli,0,Collision,Esteban Ocon
+22,2023,USA,8,31,Alpine A523,Renault V6 t h,Pirelli,6,Undertray,Esteban Ocon
+21,2023,Singapore,8,31,Alpine A523,Renault V6 t h,Pirelli,42,Gearbox,Esteban Ocon
+20,2023,Italy,18,31,Alpine A523,Renault V6 t h,Pirelli,39,Steering,Esteban Ocon
+19,2023,Hungary,12,31,Alpine A523,Renault V6 t h,Pirelli,2,Collision,Esteban Ocon
+18,2023,Britain,13,31,Alpine A523,Renault V6 t h,Pirelli,9,Hydraulics,Esteban Ocon
+17,2023,Australia,11,31,Alpine A523,Renault V6 t h,Pirelli,56,Collision,Esteban Ocon
+16,2023,Bahrain,9,31,Alpine A523,Renault V6 t h,Pirelli,41,Withdrew,Esteban Ocon
+15,2022,Singapore,17,31,Alpine A522,Renault V6 t h,Pirelli,26,Engine,Esteban Ocon
+14,2022,Britain,15,31,Alpine A522,Renault V6 t h,Pirelli,37,Fuel pump,Esteban Ocon
+13,2021,USA,11,31,Alpine A521,Renault V6 t h,Pirelli,40,Handling,Esteban Ocon
+12,2021,Austria,17,31,Alpine A521,Renault V6 t h,Pirelli,0,Collision,Esteban Ocon
+11,2021,Azerbaijan,12,31,Alpine A521,Renault V6 t h,Pirelli,3,Turbo,Esteban Ocon
+10,2020,Emilia-Romagna,12,31,Renault R.S.20,Renault V6 t h,Pirelli,27,Drive shaft,Esteban Ocon
+9,2020,Eifel,7,31,Renault R.S.20,Renault V6 t h,Pirelli,22,Hydraulics,Esteban Ocon
+8,2020,Tuscany,10,31,Renault R.S.20,Renault V6 t h,Pirelli,7,Brakes,Esteban Ocon
+7,2020,Styria,5,31,Renault R.S.20,Renault V6 t h,Pirelli,25,Overheating,Esteban Ocon
+6,2018,Abu Dhabi,9,31,Force India VJM11,Mercedes V6 t h,Pirelli,44,Engine,Esteban Ocon
+5,2018,Singapore,9,31,Force India VJM11,Mercedes V6 t h,Pirelli,0,Accident,Esteban Ocon
+4,2018,France,11,31,Force India VJM11,Mercedes V6 t h,Pirelli,0,Collision,Esteban Ocon
+3,2018,Spain,13,31,Force India VJM11,Mercedes V6 t h,Pirelli,38,Radiator,Esteban Ocon
+2,2018,Azerbaijan,7,31,Force India VJM11,Mercedes V6 t h,Pirelli,0,Collision,Esteban Ocon
+1,2017,Brazil,10,31,Force India VJM10,Mercedes V6 t h,Pirelli,0,Collision,Esteban Ocon
+76,2023,Mexico City,13,14,Aston Martin AMR23,Mercedes V6 t h,Pirelli,47,Collision damage,Fernando Alonso
+75,2023,USA,19,14,Aston Martin AMR23,Mercedes V6 t h,Pirelli,49,Undertray,Fernando Alonso
+74,2022,Abu Dhabi,10,14,Alpine A522,Renault V6 t h,Pirelli,27,Water leak,Fernando Alonso
+73,2022,Mexico City,9,14,Alpine A522,Renault V6 t h,Pirelli,63,Engine,Fernando Alonso
+72,2022,Singapore,5,14,Alpine A522,Renault V6 t h,Pirelli,20,Engine,Fernando Alonso
+71,2022,Italy,6,14,Alpine A522,Renault V6 t h,Pirelli,31,Water pressure,Fernando Alonso
+70,2022,Emilia-Romagna,9,14,Alpine A522,Renault V6 t h,Pirelli,6,Fairing,Fernando Alonso
+69,2022,Saudi Arabia,7,14,Alpine A522,Renault V6 t h,Pirelli,35,Engine,Fernando Alonso
+68,2021,USA,19,14,Alpine A521,Renault V6 t h,Pirelli,49,Wing,Fernando Alonso
+67,2021,Bahrain,9,14,Alpine A521,Renault V6 t h,Pirelli,32,Brakes,Fernando Alonso
+66,2018,Mexico,12,14,McLaren MCL33,Renault V6 t h,Pirelli,3,Overheating,Fernando Alonso
+65,2018,USA,13,14,McLaren MCL33,Renault V6 t h,Pirelli,1,Collision,Fernando Alonso
+64,2018,Italy,13,14,McLaren MCL33,Renault V6 t h,Pirelli,9,Electrics,Fernando Alonso
+63,2018,Belgium,14,14,McLaren MCL33,Renault V6 t h,Pirelli,0,Pile-up,Fernando Alonso
+62,2018,Germany,11,14,McLaren MCL33,Renault V6 t h,Pirelli,65,Gearbox,Fernando Alonso
+61,2018,France,16,14,McLaren MCL33,Renault V6 t h,Pirelli,50,Suspension,Fernando Alonso
+60,2018,Canada,14,14,McLaren MCL33,Renault V6 t h,Pirelli,40,Exhaust,Fernando Alonso
+59,2018,Monaco,7,14,McLaren MCL33,Renault V6 t h,Pirelli,52,Gearbox,Fernando Alonso
+58,2017,USA,8,14,McLaren MCL32,Honda V6 t h,Pirelli,24,Engine,Fernando Alonso
+57,2017,Singapore,8,14,McLaren MCL32,Honda V6 t h,Pirelli,8,Collision damage,Fernando Alonso
+56,2017,Italy,19,14,McLaren MCL32,Honda V6 t h,Pirelli,50,Gearbox,Fernando Alonso
+55,2017,Belgium,10,14,McLaren MCL32,Honda V6 t h,Pirelli,25,Power loss,Fernando Alonso
+54,2017,Britain,20,14,McLaren MCL32,Honda V6 t h,Pirelli,32,Power loss,Fernando Alonso
+53,2017,Austria,12,14,McLaren MCL32,Honda V6 t h,Pirelli,1,Collision,Fernando Alonso
+52,2017,Canada,12,14,McLaren MCL32,Honda V6 t h,Pirelli,66,Engine,Fernando Alonso
+51,2017,Bahrain,15,14,McLaren MCL32,Honda V6 t h,Pirelli,54,Engine,Fernando Alonso
+50,2017,China,13,14,McLaren MCL32,Honda V6 t h,Pirelli,33,Transmission,Fernando Alonso
+49,2017,Australia,12,14,McLaren MCL32,Honda V6 t h,Pirelli,50,Suspension,Fernando Alonso
+48,2016,Austria,14,14,McLaren MP4-31,Honda V6 t h,Pirelli,64,ERS,Fernando Alonso
+47,2016,Europe,13,14,McLaren MP4-31,Honda V6 t h,Pirelli,42,Gearbox,Fernando Alonso
+46,2016,Spain,10,14,McLaren MP4-31,Honda V6 t h,Pirelli,45,Power loss,Fernando Alonso
+45,2016,Australia,11,14,McLaren MP4-31,Honda V6 t h,Pirelli,16,Collision,Fernando Alonso
+44,2015,Mexico,18,14,McLaren MP4-30,Honda V6 t h,Pirelli,1,Power loss,Fernando Alonso
+43,2015,Singapore,12,14,McLaren MP4-30,Honda V6 t h,Pirelli,33,Gearbox,Fernando Alonso
+42,2015,Italy,16,14,McLaren MP4-30,Honda V6 t h,Pirelli,47,Power loss,Fernando Alonso
+41,2015,Austria,19,14,McLaren MP4-30,Honda V6 t h,Pirelli,0,Collision,Fernando Alonso
+40,2015,Canada,13,14,McLaren MP4-30,Honda V6 t h,Pirelli,44,Exhaust,Fernando Alonso
+39,2015,Monaco,13,14,McLaren MP4-30,Honda V6 t h,Pirelli,41,Overheating,Fernando Alonso
+38,2015,Spain,13,14,McLaren MP4-30,Honda V6 t h,Pirelli,26,Brakes,Fernando Alonso
+37,2015,Malaysia,18,14,McLaren MP4-30,Honda V6 t h,Pirelli,21,ERS,Fernando Alonso
+36,2014,Japan,5,14,Ferrari F14 T,Ferrari V6 t h,Pirelli,2,Electrics,Fernando Alonso
+35,2014,Italy,7,14,Ferrari F14 T,Ferrari V6 t h,Pirelli,28,KERS,Fernando Alonso
+34,2013,Malaysia,3,3,Ferrari F138,Ferrari V8,Pirelli,1,Runway exit,Fernando Alonso
+33,2012,Japan,6,5,Ferrari F2012,Ferrari V8,Pirelli,0,Puncture,Fernando Alonso
+32,2012,Belgium,5,5,Ferrari F2012,Ferrari V8,Pirelli,0,Pile-up,Fernando Alonso
+31,2011,Canada,2,5,Ferrari 150° Italia,Ferrari V8,Pirelli,36,Collision,Fernando Alonso
+30,2010,Belgium,10,8,Ferrari F10,Ferrari V8,Bridgestone,37,Accident,Fernando Alonso
+29,2010,Malaysia,19,8,Ferrari F10,Ferrari V8,Bridgestone,54,Engine,Fernando Alonso
+28,2009,Brazil,10,7,Renault R29,Renault V8,Bridgestone,0,Collision,Fernando Alonso
+27,2009,Belgium,13,7,Renault R29,Renault V8,Bridgestone,26,Wheel,Fernando Alonso
+26,2009,Hungary,1,7,Renault R29,Renault V8,Bridgestone,15,Fuel pump,Fernando Alonso
+25,2008,Europe,12,5,Renault R28,Renault V8,Bridgestone,0,Collision,Fernando Alonso
+24,2008,Canada,4,5,Renault R28,Renault V8,Bridgestone,44,Accident,Fernando Alonso
+23,2008,Spain,2,5,Renault R28,Renault V8,Bridgestone,34,Engine,Fernando Alonso
+22,2007,Japan,2,1,McLaren MP4-22,Mercedes V8,Bridgestone,41,Accident,Fernando Alonso
+21,2006,Italy,10,1,Renault R26,Renault V8,Michelin,43,Engine,Fernando Alonso
+20,2006,Hungary,15,1,Renault R26,Renault V8,Michelin,51,Wheel nut,Fernando Alonso
+19,2005,Canada,3,5,Renault R25,Renault V10,Michelin,38,Accident,Fernando Alonso
+18,2004,Italy,4,8,Renault R24,Renault V10,Michelin,40,Spin,Fernando Alonso
+17,2004,Belgium,3,8,Renault R24,Renault V10,Michelin,11,Spin,Fernando Alonso
+16,2004,USA,9,8,Renault R24,Renault V10,Michelin,8,Puncture,Fernando Alonso
+15,2004,Canada,5,8,Renault R24,Renault V10,Michelin,44,Transmission,Fernando Alonso
+14,2004,Monaco,3,8,Renault R24,Renault V10,Michelin,41,Accident,Fernando Alonso
+13,2003,Japan,5,8,Renault R23B,Renault V10,Michelin,17,Engine,Fernando Alonso
+12,2003,USA,6,8,Renault R23B,Renault V10,Michelin,44,Engine,Fernando Alonso
+11,2003,Britain,8,8,Renault R23B,Renault V10,Michelin,52,Gearbox,Fernando Alonso
+10,2003,France,7,8,Renault R23,Renault V10,Michelin,43,Engine,Fernando Alonso
+9,2003,Austria,19,8,Renault R23,Renault V10,Michelin,44,Engine,Fernando Alonso
+8,2001,USA,17,21,Minardi PS01,European V10,Michelin,36,Transmission,Fernando Alonso
+7,2001,Hungary,18,21,Minardi PS01,European V10,Michelin,37,Runway exit,Fernando Alonso
+6,2001,France,21,21,Minardi PS01,European V10,Michelin,65,Engine,Fernando Alonso
+5,2001,Canada,22,21,Minardi PS01,European V10,Michelin,7,Transmission,Fernando Alonso
+4,2001,Monaco,18,21,Minardi PS01,European V10,Michelin,54,Gearbox,Fernando Alonso
+3,2001,Austria,18,21,Minardi PS01,European V10,Michelin,38,Clutch,Fernando Alonso
+2,2001,San Marino,18,21,Minardi PS01,European V10,Michelin,5,Accident,Fernando Alonso
+1,2001,Brazil,19,21,Minardi PS01,European V10,Michelin,25,Electronics,Fernando Alonso
+19,2024,Britain,1,63,Mercedes F1 W15,Mercedes V6 t h,Pirelli,33,Water leak,George Russel
+18,2024,Australia,7,63,Mercedes F1 W15,Mercedes V6 t h,Pirelli,56,Accident,George Russel
+17,2023,São Paulo,8,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,57,Oil temperature,George Russel
+16,2023,Singapore,2,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,61,Accident,George Russel
+15,2023,Canada,4,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,53,Brakes,George Russel
+14,2023,Australia,2,63,Mercedes F1 W14,Mercedes V6 t h,Pirelli,17,Engine,George Russel
+13,2022,Britain,8,63,Mercedes F1 W13,Mercedes V6 t h,Pirelli,0,Pile-up,George Russel
+12,2021,Abu Dhabi,17,63,Williams FW43B,Mercedes V6 t h,Pirelli,26,Gearbox,George Russel
+11,2021,Saudi Arabia,14,63,Williams FW43B,Mercedes V6 t h,Pirelli,14,Collision,George Russel
+10,2021,Netherlands,11,63,Williams FW43B,Mercedes V6 t h,Pirelli,69,Gearbox,George Russel
+9,2021,Styria,10,63,Williams FW43B,Mercedes V6 t h,Pirelli,36,Air pressure,George Russel
+8,2021,Azerbaijan,15,63,Williams FW43B,Mercedes V6 t h,Pirelli,48,Gearbox,George Russel
+7,2021,Emilia-Romagna,12,63,Williams FW43B,Mercedes V6 t h,Pirelli,30,Collision,George Russel
+6,2020,Emilia-Romagna,13,63,Williams FW43,Mercedes V6 t h,Pirelli,51,Accident,George Russel
+5,2020,Eifel,17,63,Williams FW43,Mercedes V6 t h,Pirelli,12,Collision,George Russel
+4,2020,Belgium,15,63,Williams FW43,Mercedes V6 t h,Pirelli,9,Accident,George Russel
+3,2020,Austria,17,63,Williams FW43,Mercedes V6 t h,Pirelli,49,Fuel pressure,George Russel
+2,2019,Russia,17,63,Williams FW42,Mercedes V6 t h,Pirelli,27,Accident,George Russel
+1,2019,Singapore,18,63,Williams FW42,Mercedes V6 t h,Pirelli,34,Collision,George Russel
+11,2024,Belgium,19,24,Kick Sauber C44,Ferrari V6 t h,Pirelli,5,Hydraulics,Guanyu Zhou
+10,2024,Japan,20,24,Kick Sauber C44,Ferrari V6 t h,Pirelli,12,Gearbox,Guanyu Zhou
+9,2023,São Paulo,20,24,Alfa Romeo C43,Ferrari V6 t h,Pirelli,22,Engine,Guanyu Zhou
+8,2023,Netherlands,15,24,Alfa Romeo C43,Ferrari V6 t h,Pirelli,62,Accident,Guanyu Zhou
+7,2023,Azerbaijan,15,24,Alfa Romeo C43,Ferrari V6 t h,Pirelli,36,Overheating,Guanyu Zhou
+6,2022,Singapore,14,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,6,Collision,Guanyu Zhou
+5,2022,France,16,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,47,Engine,Guanyu Zhou
+4,2022,Britain,9,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,0,Pile-up,Guanyu Zhou
+3,2022,Azerbaijan,14,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,23,Engine,Guanyu Zhou
+2,2022,Spain,15,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,28,Power loss,Guanyu Zhou
+1,2022,Miami,17,24,Alfa Romeo C42,Ferrari V6 t h,Pirelli,6,Water leak,Guanyu Zhou
+35,2024,Singapore,14,20,Haas VF-24,Ferrari V6 t h,Pirelli,57,Puncture,Kevin Magnussen
+34,2024,Monaco,20,20,Haas VF-24,Ferrari V6 t h,Pirelli,0,Pile-up,Kevin Magnussen
+33,2023,São Paulo,12,20,Haas VF-23,Ferrari V6 t h,Pirelli,0,Collision,Kevin Magnussen
+32,2023,Mexico City,16,20,Haas VF-23,Ferrari V6 t h,Pirelli,31,Accident,Kevin Magnussen
+31,2023,Britain,19,20,Haas VF-23,Ferrari V6 t h,Pirelli,31,Engine,Kevin Magnussen
+30,2023,Monaco,17,20,Haas VF-23,Ferrari V6 t h,Pirelli,70,Collision damage,Kevin Magnussen
+29,2023,Australia,14,20,Haas VF-23,Ferrari V6 t h,Pirelli,52,Accident,Kevin Magnussen
+28,2022,São Paulo,8,20,Haas VF-22,Ferrari V6 t h,Pirelli,0,Collision,Kevin Magnussen
+27,2022,France,20,20,Haas VF-22,Ferrari V6 t h,Pirelli,37,Collision,Kevin Magnussen
+26,2022,Azerbaijan,16,20,Haas VF-22,Ferrari V6 t h,Pirelli,31,Engine,Kevin Magnussen
+25,2022,Monaco,13,20,Haas VF-22,Ferrari V6 t h,Pirelli,19,Water leak,Kevin Magnussen
+24,2022,Miami,16,20,Haas VF-22,Ferrari V6 t h,Pirelli,56,Wing,Kevin Magnussen
+23,2020,Turkey,13,20,Haas VF-20,Ferrari V6 t h,Pirelli,55,Back in the pits,Kevin Magnussen
+22,2020,Emilia-Romagna,17,20,Haas VF-20,Ferrari V6 t h,Pirelli,47,Pains,Kevin Magnussen
+21,2020,Tuscany,20,20,Haas VF-20,Ferrari V6 t h,Pirelli,5,Pile-up,Kevin Magnussen
+20,2020,Italy,15,20,Haas VF-20,Ferrari V6 t h,Pirelli,17,Engine,Kevin Magnussen
+19,2020,70th Anniversary,17,20,Haas VF-20,Ferrari V6 t h,Pirelli,43,Vibration,Kevin Magnussen
+18,2020,Britain,14,20,Haas VF-20,Ferrari V6 t h,Pirelli,1,Collision,Kevin Magnussen
+17,2020,Austria,16,20,Haas VF-20,Ferrari V6 t h,Pirelli,24,Brakes,Kevin Magnussen
+16,2019,USA,12,20,Haas VF-19,Ferrari V6 t h,Pirelli,52,Brakes,Kevin Magnussen
+15,2019,Italy,11,20,Haas VF-19,Ferrari V6 t h,Pirelli,43,Hydraulics,Kevin Magnussen
+14,2019,Britain,16,20,Haas VF-19,Ferrari V6 t h,Pirelli,6,Suspension,Kevin Magnussen
+13,2018,Japan,12,20,Haas VF-18,Ferrari V6 t h,Pirelli,8,Collision damage,Kevin Magnussen
+12,2018,Australia,5,20,Haas VF-18,Ferrari V6 t h,Pirelli,22,Wheel,Kevin Magnussen
+11,2017,Brazil,13,20,Haas VF-17,Ferrari V6 t h,Pirelli,0,Collision,Kevin Magnussen
+10,2017,Singapore,16,20,Haas VF-17,Ferrari V6 t h,Pirelli,50,Power loss,Kevin Magnussen
+9,2017,Austria,15,20,Haas VF-17,Ferrari V6 t h,Pirelli,29,Gearbox,Kevin Magnussen
+8,2017,Bahrain,20,20,Haas VF-17,Ferrari V6 t h,Pirelli,8,Electronics,Kevin Magnussen
+7,2017,Australia,17,20,Haas VF-17,Ferrari V6 t h,Pirelli,46,Suspension,Kevin Magnussen
+6,2016,Abu Dhabi,18,20,Renault R.S.16,Renault V6 t h,Pirelli,5,Suspension,Kevin Magnussen
+5,2016,Malaysia,14,20,Renault R.S.16,Renault V6 t h,Pirelli,17,Overheating,Kevin Magnussen
+4,2016,Belgium,12,20,Renault R.S.16,Renault V6 t h,Pirelli,5,Accident,Kevin Magnussen
+3,2016,Britain,16,20,Renault R.S.16,Renault V6 t h,Pirelli,49,Gearbox,Kevin Magnussen
+2,2016,Monaco,16,20,Renault R.S.16,Renault V6 t h,Pirelli,32,Accident,Kevin Magnussen
+1,2014,Bahrain,8,20,McLaren MP4-29,Mercedes V6 t h,Pirelli,40,Clutch,Kevin Magnussen
+28,2024,Azerbaijan,13,18,Aston Martin AMR24,Mercedes V6 t h,Pirelli,45,Brakes,Lance stroll
+27,2024,Saudi Arabia,10,18,Aston Martin AMR24,Mercedes V6 t h,Pirelli,5,Accident,Lance stroll
+26,2023,Mexico City,20,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,66,Collision,Lance stroll
+25,2023,Japan,17,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,20,Rear wing,Lance stroll
+24,2023,Monaco,14,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,53,Brakes,Lance stroll
+23,2023,Saudi Arabia,5,18,Aston Martin AMR23,Mercedes V6 t h,Pirelli,16,Engine,Lance stroll
+22,2022,USA,5,18,Aston Martin AMR22,Mercedes V6 t h,Pirelli,21,Collision,Lance stroll
+21,2022,Italy,12,18,Aston Martin AMR22,Mercedes V6 t h,Pirelli,39,Withdrew,Lance stroll
+20,2022,Azerbaijan,19,18,Aston Martin AMR22,Mercedes V6 t h,Pirelli,46,Vibration,Lance stroll
+19,2021,São Paulo,14,18,Aston Martin AMR21,Mercedes V6 t h,Pirelli,47,Undertray,Lance stroll
+18,2021,Hungary,12,18,Aston Martin AMR21,Mercedes V6 t h,Pirelli,0,Pile-up,Lance stroll
+17,2021,Azerbaijan,19,18,Aston Martin AMR21,Mercedes V6 t h,Pirelli,29,Accident,Lance stroll
+16,2020,Bahrain,13,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,2,Accident,Lance stroll
+15,2020,Portugal,12,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,51,Collision damage,Lance stroll
+14,2020,Russia,12,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,0,Accident,Lance stroll
+13,2020,Tuscany,6,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,42,Accident,Lance stroll
+12,2020,Austria,9,18,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,20,Engine,Lance stroll
+11,2019,Abu Dhabi,12,18,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,45,Brakes,Lance stroll
+10,2019,Brazil,17,18,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,65,Suspension,Lance stroll
+9,2019,Spain,16,18,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,44,Collision,Lance stroll
+8,2018,Germany,17,18,Williams FW41,Mercedes V6 t h,Pirelli,53,Brakes,Lance stroll
+7,2018,France,19,18,Williams FW41,Mercedes V6 t h,Pirelli,48,Puncture,Lance stroll
+6,2018,Canada,16,18,Williams FW41,Mercedes V6 t h,Pirelli,0,Collision,Lance stroll
+5,2017,Japan,15,18,Williams FW40,Mercedes V6 t h,Pirelli,45,Wheel,Lance stroll
+4,2017,Monaco,17,18,Williams FW40,Mercedes V6 t h,Pirelli,71,Brakes,Lance stroll
+3,2017,Bahrain,12,18,Williams FW40,Mercedes V6 t h,Pirelli,12,Collision,Lance stroll
+2,2017,China,10,18,Williams FW40,Mercedes V6 t h,Pirelli,0,Collision,Lance stroll
+1,2017,Australia,20,18,Williams FW40,Mercedes V6 t h,Pirelli,40,Brakes,Lance stroll
+12,2024,Austria,2,4,McLaren MCL38,Mercedes V6 t h,Pirelli,64,Collision,Lando norris
+11,2023,Las Vegas,15,4,McLaren MCL60,Mercedes V6 t h,Pirelli,2,Accident,Lando norris
+10,2022,São Paulo,6,4,McLaren MCL36,Mercedes V6 t h,Pirelli,50,Gearbox,Lando norris
+9,2022,Miami,8,4,McLaren MCL36,Mercedes V6 t h,Pirelli,39,Collision,Lando norris
+8,2021,Hungary,6,4,McLaren MCL35M,Mercedes V6 t h,Pirelli,2,Undertray,Lando norris
+7,2020,Eifel,8,4,McLaren MCL35,Renault V6 t h,Pirelli,42,Engine,Lando norris
+6,2019,Mexico,8,4,McLaren MCL34,Renault V6 t h,Pirelli,48,Withdrew,Lando norris
+5,2019,Belgium,11,4,McLaren MCL34,Renault V6 t h,Pirelli,43,Engine,Lando norris
+4,2019,Germany,19,4,McLaren MCL34,Renault V6 t h,Pirelli,25,Power loss,Lando norris
+3,2019,Canada,8,4,McLaren MCL34,Renault V6 t h,Pirelli,8,Suspension,Lando norris
+2,2019,Spain,10,4,McLaren MCL34,Renault V6 t h,Pirelli,44,Collision,Lando norris
+1,2019,China,15,4,McLaren MCL34,Renault V6 t h,Pirelli,50,Undertray,Lando norris
+32,2024,USA,17,44,Mercedes F1 W15,Mercedes V6 t h,Pirelli,1,Runway exit,Lewis Hamilton
+31,2024,Australia,11,44,Mercedes F1 W15,Mercedes V6 t h,Pirelli,15,Engine,Lewis Hamilton
+30,2023,Qatar,3,44,Mercedes F1 W14,Mercedes V6 t h,Pirelli,0,Collision,Lewis Hamilton
+29,2022,Abu Dhabi,5,44,Mercedes F1 W13,Mercedes V6 t h,Pirelli,55,Hydraulics,Lewis Hamilton
+28,2022,Belgium,4,44,Mercedes F1 W13,Mercedes V6 t h,Pirelli,0,Collision,Lewis Hamilton
+27,2021,Italy,4,44,Mercedes F1 W12,Mercedes V6 t h,Pirelli,25,Collision,Lewis Hamilton
+26,2018,Austria,2,44,Mercedes F1 W09,Mercedes V6 t h,Pirelli,62,Fuel pressure,Lewis Hamilton
+25,2016,Malaysia,1,44,Mercedes F1 W07,Mercedes V6 t h,Pirelli,40,Engine,Lewis Hamilton
+24,2016,Spain,1,44,Mercedes F1 W07,Mercedes V6 t h,Pirelli,0,Collision,Lewis Hamilton
+23,2015,Singapore,5,44,Mercedes F1 W06,Mercedes V6 t h,Pirelli,32,Throttle,Lewis Hamilton
+22,2014,Belgium,2,44,Mercedes F1 W05,Mercedes V6 t h,Pirelli,38,Handling,Lewis Hamilton
+21,2014,Canada,2,44,Mercedes F1 W05,Mercedes V6 t h,Pirelli,46,Brakes,Lewis Hamilton
+20,2014,Australia,1,44,Mercedes F1 W05,Mercedes V6 t h,Pirelli,2,Engine,Lewis Hamilton
+19,2013,Japan,3,10,Mercedes F1 W04,Mercedes V8,Pirelli,7,Undertray,Lewis Hamilton
+18,2012,Brazil,1,4,McLaren MP4-27,Mercedes V8,Pirelli,54,Collision,Lewis Hamilton
+17,2012,Abu Dhabi,1,4,McLaren MP4-27,Mercedes V8,Pirelli,19,Fuel pressure,Lewis Hamilton
+16,2012,Singapore,1,4,McLaren MP4-27,Mercedes V8,Pirelli,22,Gearbox,Lewis Hamilton
+15,2012,Belgium,7,4,McLaren MP4-27,Mercedes V8,Pirelli,0,Pile-up,Lewis Hamilton
+14,2012,Germany,7,4,McLaren MP4-27,Mercedes V8,Pirelli,56,Handling,Lewis Hamilton
+13,2012,Europe,2,4,McLaren MP4-27,Mercedes V8,Pirelli,55,Collision,Lewis Hamilton
+12,2011,Brazil,4,3,McLaren MP4-26,Mercedes V8,Pirelli,46,Gearbox,Lewis Hamilton
+11,2011,Belgium,2,3,McLaren MP4-26,Mercedes V8,Pirelli,12,Accident,Lewis Hamilton
+10,2011,Canada,5,3,McLaren MP4-26,Mercedes V8,Pirelli,7,Collision,Lewis Hamilton
+9,2010,Singapore,3,2,McLaren MP4-25,Mercedes V8,Bridgestone,35,Collision,Lewis Hamilton
+8,2010,Italy,5,2,McLaren MP4-25,Mercedes V8,Bridgestone,0,Collision,Lewis Hamilton
+7,2010,Hungary,5,2,McLaren MP4-25,Mercedes V8,Bridgestone,23,Transmission,Lewis Hamilton
+6,2010,Spain,3,2,McLaren MP4-25,Mercedes V8,Bridgestone,64,Puncture,Lewis Hamilton
+5,2009,Abu Dhabi,1,1,McLaren MP4-24,Mercedes V8,Bridgestone,20,Brakes,Lewis Hamilton
+4,2009,Italy,1,1,McLaren MP4-24,Mercedes V8,Bridgestone,52,Accident,Lewis Hamilton
+3,2009,Belgium,12,1,McLaren MP4-24,Mercedes V8,Bridgestone,0,Pile-up,Lewis Hamilton
+2,2008,Canada,1,22,McLaren MP4-23,Mercedes V8,Bridgestone,19,Collision,Lewis Hamilton
+1,2007,China,1,2,McLaren MP4-22,Mercedes V8,Bridgestone,30,Handling,Lewis Hamilton
+9,2024,Canada,13,2,Williams FW46,Mercedes V6 t h,Pirelli,23,Accident,Logan Sargeant
+8,2024,Miami,17,2,Williams FW46,Mercedes V6 t h,Pirelli,27,Collision,Logan Sargeant
+7,2023,Mexico City,19,2,Williams FW45,Mercedes V6 t h,Pirelli,70,Fuel pump,Logan Sargeant
+6,2023,Qatar,15,2,Williams FW45,Mercedes V6 t h,Pirelli,40,Exhausted,Logan Sargeant
+5,2023,Japan,20,2,Williams FW45,Mercedes V6 t h,Pirelli,22,Undertray,Logan Sargeant
+4,2023,Netherlands,10,2,Williams FW45,Mercedes V6 t h,Pirelli,14,Accident,Logan Sargeant
+3,2023,Hungary,20,2,Williams FW45,Mercedes V6 t h,Pirelli,67,Withdrew,Logan Sargeant
+2,2023,Canada,18,2,Williams FW45,Mercedes V6 t h,Pirelli,6,Oil leak,Logan Sargeant
+1,2023,Australia,18,2,Williams FW45,Mercedes V6 t h,Pirelli,56,Collision,Logan Sargeant
+32,2024,Australia,1,1,Red Bull RB20,Honda RBPT V6 t h,Pirelli,3,Brakes,Max Verstappen
+31,2022,Australia,2,1,Red Bull RB18,RBPT V6 t h,Pirelli,38,Fuel leak,Max Verstappen
+30,2022,Bahrain,2,1,Red Bull RB18,RBPT V6 t h,Pirelli,54,Fuel injection,Max Verstappen
+29,2021,Italy,1,33,Red Bull RB16B,Honda V6 t h,Pirelli,25,Collision,Max Verstappen
+28,2021,Britain,1,33,Red Bull RB16B,Honda V6 t h,Pirelli,0,Collision,Max Verstappen
+27,2021,Azerbaijan,3,33,Red Bull RB16B,Honda V6 t h,Pirelli,45,Accident,Max Verstappen
+26,2020,Sakhir,3,33,Red Bull RB16,Honda V6 t h,Pirelli,0,Accident,Max Verstappen
+25,2020,Emilia-Romagna,3,33,Red Bull RB16,Honda V6 t h,Pirelli,50,Tyre,Max Verstappen
+24,2020,Tuscany,3,33,Red Bull RB16,Honda V6 t h,Pirelli,0,Collision,Max Verstappen
+23,2020,Italy,5,33,Red Bull RB16,Honda V6 t h,Pirelli,30,Engine,Max Verstappen
+22,2020,Austria,2,33,Red Bull RB16,Honda V6 t h,Pirelli,11,Electronics,Max Verstappen
+21,2019,Japan,5,33,Red Bull RB15,Honda V6 t h,Pirelli,14,Brakes,Max Verstappen
+20,2019,Belgium,5,33,Red Bull RB15,Honda V6 t h,Pirelli,0,Accident,Max Verstappen
+19,2018,Hungary,7,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,5,Power loss,Max Verstappen
+18,2018,Britain,5,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,46,Brakes,Max Verstappen
+17,2018,Azerbaijan,5,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,39,Collision,Max Verstappen
+16,2018,Bahrain,15,33,Red Bull RB14,TAG Heuer V6 t h,Pirelli,3,Differential,Max Verstappen
+15,2017,Singapore,2,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,0,Collision,Max Verstappen
+14,2017,Belgium,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,7,Power loss,Max Verstappen
+13,2017,Austria,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,0,Collision,Max Verstappen
+12,2017,Azerbaijan,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,12,Engine,Max Verstappen
+11,2017,Canada,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,10,Electrics,Max Verstappen
+10,2017,Spain,5,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,1,Collision,Max Verstappen
+9,2017,Bahrain,6,33,Red Bull RB13,TAG Heuer V6 t h,Pirelli,11,Brakes,Max Verstappen
+8,2016,USA,4,33,Red Bull RB12,TAG Heuer V6 t h,Pirelli,28,Gearbox,Max Verstappen
+7,2016,Monaco,21,33,Red Bull RB12,TAG Heuer V6 t h,Pirelli,34,Accident,Max Verstappen
+6,2016,Russia,9,33,Toro Rosso STR11,Ferrari V6 t h,Pirelli,33,Engine,Max Verstappen
+5,2015,Britain,13,33,Toro Rosso STR10,Renault V6 t h,Pirelli,3,Runway exit,Max Verstappen
+4,2015,Monaco,9,33,Toro Rosso STR10,Renault V6 t h,Pirelli,62,Collision,Max Verstappen
+3,2015,Bahrain,15,33,Toro Rosso STR10,Renault V6 t h,Pirelli,34,Electrics,Max Verstappen
+2,2015,China,13,33,Toro Rosso STR10,Renault V6 t h,Pirelli,52,Engine,Max Verstappen
+1,2015,Australia,11,33,Toro Rosso STR10,Renault V6 t h,Pirelli,32,Engine,Max Verstappen
+41,2024,Monaco,19,27,Haas VF-24,Ferrari V6 t h,Pirelli,0,Pile-up,Nico Hulkenberg
+40,2023,Las Vegas,13,27,Haas VF-23,Ferrari V6 t h,Pirelli,45,Engine,Nico Hulkenberg
+39,2023,Austria,8,27,Haas VF-23,Ferrari V6 t h,Pirelli,12,Engine,Nico Hulkenberg
+38,2019,Germany,9,27,Renault R.S.19,Renault V6 t h,Pirelli,39,Accident,Nico Hulkenberg
+37,2019,China,8,27,Renault R.S.19,Renault V6 t h,Pirelli,16,Engine,Nico Hulkenberg
+36,2019,Bahrain,17,27,Renault R.S.19,Renault V6 t h,Pirelli,53,Engine,Nico Hulkenberg
+35,2018,Abu Dhabi,10,27,Renault R.S.18,Renault V6 t h,Pirelli,0,Collision,Nico Hulkenberg
+34,2018,Brazil,13,27,Renault R.S.18,Renault V6 t h,Pirelli,32,Overheating,Nico Hulkenberg
+33,2018,Japan,16,27,Renault R.S.18,Renault V6 t h,Pirelli,37,Handling,Nico Hulkenberg
+32,2018,Belgium,18,27,Renault R.S.18,Renault V6 t h,Pirelli,0,Pile-up,Nico Hulkenberg
+31,2018,Austria,10,27,Renault R.S.18,Renault V6 t h,Pirelli,11,Turbo,Nico Hulkenberg
+30,2018,Spain,16,27,Renault R.S.18,Renault V6 t h,Pirelli,0,Collision,Nico Hulkenberg
+29,2018,Azerbaijan,14,27,Renault R.S.18,Renault V6 t h,Pirelli,10,Accident,Nico Hulkenberg
+28,2017,Mexico,7,27,Renault R.S.17,Renault V6 t h,Pirelli,24,ERS,Nico Hulkenberg
+27,2017,USA,18,27,Renault R.S.17,Renault V6 t h,Pirelli,3,Oil pressure,Nico Hulkenberg
+26,2017,Japan,11,27,Renault R.S.17,Renault V6 t h,Pirelli,40,Wing,Nico Hulkenberg
+25,2017,Singapore,7,27,Renault R.S.17,Renault V6 t h,Pirelli,48,Engine,Nico Hulkenberg
+24,2017,Hungary,12,27,Renault R.S.17,Renault V6 t h,Pirelli,67,Brakes,Nico Hulkenberg
+23,2017,Azerbaijan,13,27,Renault R.S.17,Renault V6 t h,Pirelli,24,Accident,Nico Hulkenberg
+22,2017,Monaco,10,27,Renault R.S.17,Renault V6 t h,Pirelli,15,Gearbox,Nico Hulkenberg
+21,2016,USA,7,27,Force India VJM09,Mercedes V6 t h,Pirelli,1,Steering,Nico Hulkenberg
+20,2016,Singapore,8,27,Force India VJM09,Mercedes V6 t h,Pirelli,0,Collision,Nico Hulkenberg
+19,2016,Austria,2,27,Force India VJM09,Mercedes V6 t h,Pirelli,64,Brakes,Nico Hulkenberg
+18,2016,Spain,11,27,Force India VJM09,Mercedes V6 t h,Pirelli,20,Fire,Nico Hulkenberg
+17,2016,Russia,13,27,Force India VJM09,Mercedes V6 t h,Pirelli,0,Collision,Nico Hulkenberg
+16,2015,USA,6,27,Force India VJM08,Mercedes V6 t h,Pirelli,35,Collision,Nico Hulkenberg
+15,2015,Russia,6,27,Force India VJM08,Mercedes V6 t h,Pirelli,0,Collision,Nico Hulkenberg
+14,2015,Singapore,11,27,Force India VJM08,Mercedes V6 t h,Pirelli,12,Collision,Nico Hulkenberg
+13,2015,Hungary,11,27,Force India VJM08,Mercedes V6 t h,Pirelli,41,Accident,Nico Hulkenberg
+12,2015,China,16,27,Force India VJM08,Mercedes V6 t h,Pirelli,9,Gearbox,Nico Hulkenberg
+11,2014,USA,13,27,Force India VJM07,Mercedes V6 t h,Pirelli,16,Power loss,Nico Hulkenberg
+10,2014,Hungary,9,27,Force India VJM07,Mercedes V6 t h,Pirelli,14,Collision,Nico Hulkenberg
+9,2013,India,7,11,Sauber C32,Ferrari V8,Pirelli,54,Brakes,Nico Hulkenberg
+8,2013,Canada,9,11,Sauber C32,Ferrari V8,Pirelli,45,Puncture,Nico Hulkenberg
+7,2012,Abu Dhabi,10,12,Force India VJM05,Mercedes V8,Pirelli,0,Collision,Nico Hulkenberg
+6,2012,Italy,24,12,Force India VJM05,Mercedes V8,Pirelli,50,Brakes,Nico Hulkenberg
+5,2012,Australia,9,12,Force India VJM05,Mercedes V8,Pirelli,0,Collision,Nico Hulkenberg
+4,2010,Japan,9,10,Williams FW32,Cosworth V8,Bridgestone,0,Collision,Nico Hulkenberg
+3,2010,Europe,8,10,Williams FW32,Cosworth V8,Bridgestone,49,Exhaust,Nico Hulkenberg
+2,2010,Monaco,11,10,Williams FW32,Cosworth V8,Bridgestone,0,Accident,Nico Hulkenberg
+1,2010,Australia,15,10,Williams FW32,Cosworth V8,Bridgestone,0,Pile-up,Nico Hulkenberg
+3,2023,USA,10,81,McLaren MCL60,Mercedes V6 t h,Pirelli,10,Overheating,Oscar Piastri
+2,2023,Belgium,5,81,McLaren MCL60,Mercedes V6 t h,Pirelli,0,Collision,Oscar Piastri
+1,2023,Bahrain,18,81,McLaren MCL60,Mercedes V6 t h,Pirelli,13,Electronics,Oscar Piastri
+23,2024,Hungary,20,10,Alpine A524,Renault V6 t h,Pirelli,33,Hydraulics,Pierre Gasly
+22,2024,Saudi Arabia,18,10,Alpine A524,Renault V6 t h,Pirelli,1,Gearbox,Pierre Gasly
+21,2023,Hungary,15,10,Alpine A523,Renault V6 t h,Pirelli,1,Collision,Pierre Gasly
+20,2023,Britain,10,10,Alpine A523,Renault V6 t h,Pirelli,46,Collision,Pierre Gasly
+19,2023,Australia,9,10,Alpine A523,Renault V6 t h,Pirelli,56,Collision,Pierre Gasly
+18,2022,Britain,11,10,AlphaTauri AT03,RBPT V6 t h,Pirelli,26,Rear wing,Pierre Gasly
+17,2022,Miami,7,10,AlphaTauri AT03,RBPT V6 t h,Pirelli,45,Suspension,Pierre Gasly
+16,2022,Bahrain,10,10,AlphaTauri AT03,RBPT V6 t h,Pirelli,44,Fire,Pierre Gasly
+15,2021,USA,8,10,AlphaTauri AT02,Honda V6 t h,Pirelli,14,Suspension,Pierre Gasly
+14,2021,Italy,20,10,AlphaTauri AT02,Honda V6 t h,Pirelli,3,Suspension,Pierre Gasly
+13,2021,Styria,6,10,AlphaTauri AT02,Honda V6 t h,Pirelli,1,Collision,Pierre Gasly
+12,2021,Bahrain,5,10,AlphaTauri AT02,Honda V6 t h,Pirelli,52,Undertray,Pierre Gasly
+11,2020,Emilia-Romagna,4,10,AlphaTauri AT01,Honda V6 t h,Pirelli,8,Water leak,Pierre Gasly
+10,2020,Tuscany,16,10,AlphaTauri AT01,Honda V6 t h,Pirelli,0,Collision,Pierre Gasly
+9,2020,Hungary,10,10,AlphaTauri AT01,Honda V6 t h,Pirelli,15,Gearbox,Pierre Gasly
+8,2019,USA,10,10,Toro Rosso STR14,Honda V6 t h,Pirelli,54,Suspension,Pierre Gasly
+7,2019,Germany,4,10,Red Bull RB15,Honda V6 t h,Pirelli,61,Collision,Pierre Gasly
+6,2019,Azerbaijan,20,10,Red Bull RB15,Honda V6 t h,Pirelli,38,Drive shaft,Pierre Gasly
+5,2018,Abu Dhabi,17,10,Toro Rosso STR13,Honda V6 t h,Pirelli,46,Engine,Pierre Gasly
+4,2018,Russia,17,10,Toro Rosso STR13,Honda V6 t h,Pirelli,4,Brakes,Pierre Gasly
+3,2018,France,14,10,Toro Rosso STR13,Honda V6 t h,Pirelli,0,Collision,Pierre Gasly
+2,2018,Spain,12,10,Toro Rosso STR13,Honda V6 t h,Pirelli,0,Collision,Pierre Gasly
+1,2018,Australia,20,10,Toro Rosso STR13,Honda V6 t h,Pirelli,13,Engine,Pierre Gasly
+36,2024,Azerbaijan,4,11,Red Bull RB20,Honda RBPT V6 t h,Pirelli,49,Collision,Sergio Perez
+35,2024,Canada,16,11,Red Bull RB20,Honda RBPT V6 t h,Pirelli,51,Accident,Sergio Perez
+34,2024,Monaco,16,11,Red Bull RB20,Honda RBPT V6 t h,Pirelli,0,Pile-up,Sergio Perez
+33,2023,Mexico City,5,11,Red Bull RB19,Honda RBPT V6 t h,Pirelli,1,Collision,Sergio Perez
+32,2023,Japan,5,11,Red Bull RB19,Honda RBPT V6 t h,Pirelli,15,Withdrew,Sergio Perez
+31,2022,Austria,5,11,Red Bull RB18,RBPT V6 t h,Pirelli,24,Collision damage,Sergio Perez
+30,2022,Canada,13,11,Red Bull RB18,RBPT V6 t h,Pirelli,7,Gearbox,Sergio Perez
+29,2022,Bahrain,4,11,Red Bull RB18,RBPT V6 t h,Pirelli,56,Fuel injection,Sergio Perez
+28,2021,Abu Dhabi,4,11,Red Bull RB16B,Honda V6 t h,Pirelli,55,Oil pressure,Sergio Perez
+27,2021,Saudi Arabia,5,11,Red Bull RB16B,Honda V6 t h,Pirelli,14,Accident,Sergio Perez
+26,2021,Hungary,4,11,Red Bull RB16B,Honda V6 t h,Pirelli,0,Pile-up,Sergio Perez
+25,2020,Abu Dhabi,19,11,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,8,Engine,Sergio Perez
+24,2020,Bahrain,5,11,Racing Point RP20,BWT Mercedes V6 t h,Pirelli,53,Engine,Sergio Perez
+23,2019,Singapore,15,11,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,42,Oil leak,Sergio Perez
+22,2019,Germany,8,11,Racing Point RP19,BWT Mercedes V6 t h,Pirelli,1,Accident,Sergio Perez
+21,2018,Mexico,13,11,Force India VJM11,Mercedes V6 t h,Pirelli,38,Brakes,Sergio Perez
+20,2018,France,13,11,Force India VJM11,Mercedes V6 t h,Pirelli,27,Water pressure,Sergio Perez
+19,2017,Belgium,8,11,Force India VJM10,Mercedes V6 t h,Pirelli,42,Handling,Sergio Perez
+18,2017,Azerbaijan,6,11,Force India VJM10,Mercedes V6 t h,Pirelli,39,Broken Seat,Sergio Perez
+17,2016,Austria,16,11,Force India VJM09,Mercedes V6 t h,Pirelli,69,Accident,Sergio Perez
+16,2015,Hungary,13,11,Force India VJM08,Mercedes V6 t h,Pirelli,53,Brakes,Sergio Perez
+15,2014,USA,11,11,Force India VJM07,Mercedes V6 t h,Pirelli,1,Collision,Sergio Perez
+14,2014,Hungary,12,11,Force India VJM07,Mercedes V6 t h,Pirelli,22,Accident,Sergio Perez
+13,2014,Canada,13,11,Force India VJM07,Mercedes V6 t h,Pirelli,69,Collision,Sergio Perez
+12,2014,Monaco,10,11,Force India VJM07,Mercedes V6 t h,Pirelli,0,Collision,Sergio Perez
+11,2013,Britain,13,6,McLaren MP4-28,Mercedes V8,Pirelli,46,Tyre,Sergio Perez
+10,2013,Monaco,7,6,McLaren MP4-28,Mercedes V8,Pirelli,72,Brakes,Sergio Perez
+9,2012,Brazil,12,15,Sauber C31,Ferrari V8,Pirelli,0,Collision,Sergio Perez
+8,2012,India,8,15,Sauber C31,Ferrari V8,Pirelli,20,Puncture,Sergio Perez
+7,2012,Japan,5,15,Sauber C31,Ferrari V8,Pirelli,18,Spin,Sergio Perez
+6,2012,Belgium,4,15,Sauber C31,Ferrari V8,Pirelli,0,Pile-up,Sergio Perez
+5,2012,Britain,15,15,Sauber C31,Ferrari V8,Pirelli,11,Collision,Sergio Perez
+4,2012,Spain,5,15,Sauber C31,Ferrari V8,Pirelli,37,Transmission,Sergio Perez
+3,2011,Italy,15,17,Sauber C30,Ferrari V8,Pirelli,32,Gearbox,Sergio Perez
+2,2011,Belgium,9,17,Sauber C30,Ferrari V8,Pirelli,27,Suspension,Sergio Perez
+1,2011,Malaysia,16,17,Sauber C30,Ferrari V8,Pirelli,23,Electrics,Sergio Perez
+27,2024,China,10,77,Kick Sauber C44,Ferrari V6 t h,Pirelli,19,Engine,Valtteri Bottas
+26,2023,São Paulo,18,77,Alfa Romeo C43,Ferrari V6 t h,Pirelli,39,Hydraulics,Valtteri Bottas
+25,2023,Japan,16,77,Alfa Romeo C43,Ferrari V6 t h,Pirelli,7,Undertray,Valtteri Bottas
+24,2023,Singapore,16,77,Alfa Romeo C43,Ferrari V6 t h,Pirelli,51,Overheating,Valtteri Bottas
+23,2022,USA,7,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,16,Runway exit,Valtteri Bottas
+22,2022,Netherlands,16,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,53,Engine,Valtteri Bottas
+21,2022,Belgium,13,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,1,Runway exit,Valtteri Bottas
+20,2022,Hungary,8,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,65,Fuel injection,Valtteri Bottas
+19,2022,Britain,12,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,20,Gearbox,Valtteri Bottas
+18,2022,Saudi Arabia,8,77,Alfa Romeo C42,Ferrari V6 t h,Pirelli,36,Overheating,Valtteri Bottas
+17,2021,Qatar,6,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,48,Collision damage,Valtteri Bottas
+16,2021,Hungary,2,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,0,Pile-up,Valtteri Bottas
+15,2021,Monaco,3,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,29,Wheel nut,Valtteri Bottas
+14,2021,Emilia-Romagna,8,77,Mercedes F1 W12,Mercedes V6 t h,Pirelli,30,Collision,Valtteri Bottas
+13,2020,Eifel,1,77,Mercedes F1 W11,Mercedes V6 t h,Pirelli,18,Electronics,Valtteri Bottas
+12,2019,Brazil,4,77,Mercedes F1 W10,Mercedes V6 t h,Pirelli,51,Engine,Valtteri Bottas
+11,2019,Germany,3,77,Mercedes F1 W10,Mercedes V6 t h,Pirelli,56,Accident,Valtteri Bottas
+10,2018,Austria,1,77,Mercedes F1 W09,Mercedes V6 t h,Pirelli,13,Hydraulics,Valtteri Bottas
+9,2018,Azerbaijan,3,77,Mercedes F1 W09,Mercedes V6 t h,Pirelli,48,Puncture,Valtteri Bottas
+8,2017,Spain,3,77,Mercedes F1 W08,Mercedes V6 t h,Pirelli,38,Engine,Valtteri Bottas
+7,2016,Abu Dhabi,11,77,Williams FW38,Mercedes V6 t h,Pirelli,6,Suspension,Valtteri Bottas
+6,2016,Singapore,10,77,Williams FW38,Mercedes V6 t h,Pirelli,35,Overheating,Valtteri Bottas
+5,2015,USA,16,77,Williams FW37,Mercedes V6 t h,Pirelli,5,Suspension,Valtteri Bottas
+4,2015,Russia,3,77,Williams FW37,Mercedes V6 t h,Pirelli,52,Collision,Valtteri Bottas
+3,2014,Monaco,13,77,Williams FW36,Mercedes V6 t h,Pirelli,55,Engine,Valtteri Bottas
+2,2013,Brazil,13,17,Williams FW35,Renault V8,Pirelli,45,Collision,Valtteri Bottas
+1,2013,Hungary,16,17,Williams FW35,Renault V8,Pirelli,42,Hydraulics,Valtteri Bottas
+13,2024,Azerbaijan,11,22,RB VCARB 01,Honda RBPT V6 t h,Pirelli,14,Collision damage,Yuki Tsunoda
+12,2024,Italy,16,22,RB VCARB 01,Honda RBPT V6 t h,Pirelli,7,Collision damage,Yuki Tsunoda
+11,2024,China,19,22,RB VCARB 01,Honda RBPT V6 t h,Pirelli,26,Collision,Yuki Tsunoda
+10,2023,Las Vegas,20,22,AlphaTauri AT04,Honda RBPT V6 t h,Pirelli,46,Gearbox,Yuki Tsunoda
+9,2023,Singapore,15,22,AlphaTauri AT04,Honda RBPT V6 t h,Pirelli,0,Collision,Yuki Tsunoda
+8,2022,Mexico City,13,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,50,Collision,Yuki Tsunoda
+7,2022,Singapore,10,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,34,Accident,Yuki Tsunoda
+6,2022,Netherlands,9,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,43,Differential,Yuki Tsunoda
+5,2022,France,8,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,17,Fairing,Yuki Tsunoda
+4,2022,Canada,20,22,AlphaTauri AT03,RBPT V6 t h,Pirelli,47,Runway exit,Yuki Tsunoda
+3,2021,Mexico City,17,22,AlphaTauri AT02,Honda V6 t h,Pirelli,0,Collision,Yuki Tsunoda
+2,2021,Netherlands,14,22,AlphaTauri AT02,Honda V6 t h,Pirelli,48,Engine,Yuki Tsunoda
+1,2021,Spain,16,22,AlphaTauri AT02,Honda V6 t h,Pirelli,6,Electrics,Yuki Tsunoda
